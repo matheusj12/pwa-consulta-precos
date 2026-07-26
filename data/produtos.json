@@ -173,7 +173,8 @@
     "nome": "Energetico Monster",
     "embalagem": "473 ML",
     "unitario": 12.0,
-    "caixa": 12.0
+    "caixa": 12.0,
+    "imagem": "assets/products/energetico-monster.jpg"
   },
   {
     "categoria": "Energético",
@@ -181,7 +182,8 @@
     "nome": "Energetico Red Bull",
     "embalagem": "250 ML",
     "unitario": 11.0,
-    "caixa": 11.0
+    "caixa": 11.0,
+    "imagem": "assets/products/energetico-red-bull.jpg"
   },
   {
     "categoria": "Energético",
@@ -189,7 +191,8 @@
     "nome": "Energetico Red Bull",
     "embalagem": "355 ML",
     "unitario": 14.0,
-    "caixa": 14.0
+    "caixa": 14.0,
+    "imagem": "assets/products/energetico-red-bull.jpg"
   },
   {
     "categoria": "Energético",
@@ -197,7 +200,8 @@
     "nome": "Energetico Red Bull",
     "embalagem": "473 ML",
     "unitario": 18.0,
-    "caixa": 18.0
+    "caixa": 18.0,
+    "imagem": "assets/products/energetico-red-bull.jpg"
   },
   {
     "categoria": "Isotônico",
@@ -253,7 +257,8 @@
     "nome": "Coca Cola",
     "embalagem": "PET 12 x 200 ML",
     "unitario": 3.0,
-    "caixa": 36.0
+    "caixa": 36.0,
+    "imagem": "assets/products/coca-cola.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -261,7 +266,8 @@
     "nome": "Coca Cola",
     "embalagem": "Lata 12 x 220 ML",
     "unitario": 3.75,
-    "caixa": 45.0
+    "caixa": 45.0,
+    "imagem": "assets/products/coca-cola.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -269,7 +275,8 @@
     "nome": "Coca Cola",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.5,
-    "caixa": 54.0
+    "caixa": 54.0,
+    "imagem": "assets/products/coca-cola.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -277,7 +284,8 @@
     "nome": "Coca Cola",
     "embalagem": "12 x 600 ML",
     "unitario": 6.5,
-    "caixa": 78.0
+    "caixa": 78.0,
+    "imagem": "assets/products/coca-cola.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -301,7 +309,8 @@
     "nome": "Coca Cola",
     "embalagem": "6 x 1,5 LT",
     "unitario": 10.0,
-    "caixa": 60.0
+    "caixa": 60.0,
+    "imagem": "assets/products/coca-cola.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -309,7 +318,8 @@
     "nome": "Coca Cola",
     "embalagem": "6 x 2 LT",
     "unitario": 13.0,
-    "caixa": 78.0
+    "caixa": 78.0,
+    "imagem": "assets/products/coca-cola.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -325,7 +335,8 @@
     "nome": "Coca Cola Zero",
     "embalagem": "PET 12 x 200 ML",
     "unitario": 3.0,
-    "caixa": 36.0
+    "caixa": 36.0,
+    "imagem": "assets/products/coca-cola-zero.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -333,7 +344,8 @@
     "nome": "Coca Cola Zero",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.5,
-    "caixa": 54.0
+    "caixa": 54.0,
+    "imagem": "assets/products/coca-cola-zero.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -341,7 +353,8 @@
     "nome": "Coca Cola Zero",
     "embalagem": "6 x 2 LT",
     "unitario": 13.0,
-    "caixa": 78.0
+    "caixa": 78.0,
+    "imagem": "assets/products/coca-cola-zero.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -397,7 +410,8 @@
     "nome": "Guarana Antarctica",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.5,
-    "caixa": 54.0
+    "caixa": 54.0,
+    "imagem": "assets/products/guarana-antarctica.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -405,7 +419,8 @@
     "nome": "Guarana Antarctica",
     "embalagem": "6 x 2 LT",
     "unitario": 10.0,
-    "caixa": 60.0
+    "caixa": 60.0,
+    "imagem": "assets/products/guarana-antarctica.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -421,7 +436,8 @@
     "nome": "Guarana Antarctica",
     "embalagem": "6 x 1,5 LT",
     "unitario": 7.0,
-    "caixa": 42.0
+    "caixa": 42.0,
+    "imagem": "assets/products/guarana-antarctica.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -429,7 +445,8 @@
     "nome": "Guarana Antarctica",
     "embalagem": "12 x 1,0 LT",
     "unitario": 6.0,
-    "caixa": 72.0
+    "caixa": 72.0,
+    "imagem": "assets/products/guarana-antarctica.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -437,7 +454,8 @@
     "nome": "Guaraná Antarctica",
     "embalagem": "PET 12 x 200 ML",
     "unitario": 3.0,
-    "caixa": 3.0
+    "caixa": 3.0,
+    "imagem": "assets/products/guarana-antarctica.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -453,7 +471,8 @@
     "nome": "Guarana Kuat",
     "embalagem": "6 x 1,0 LT",
     "unitario": 5.0,
-    "caixa": 30.0
+    "caixa": 30.0,
+    "imagem": "assets/products/guarana-kuat.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -461,7 +480,8 @@
     "nome": "Guarana Kuat",
     "embalagem": "6 x 2,0 LT",
     "unitario": 6.5,
-    "caixa": 39.0
+    "caixa": 39.0,
+    "imagem": "assets/products/guarana-kuat.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -485,7 +505,8 @@
     "nome": "Pepsi",
     "embalagem": "6 x 2 LT",
     "unitario": 9.0,
-    "caixa": 54.0
+    "caixa": 54.0,
+    "imagem": "assets/products/pepsi.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -509,7 +530,8 @@
     "nome": "Sprite",
     "embalagem": "12 x 350 ML",
     "unitario": 4.5,
-    "caixa": 54.0
+    "caixa": 54.0,
+    "imagem": "assets/products/sprite.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -517,7 +539,8 @@
     "nome": "Sprite",
     "embalagem": "6 x 2 LT",
     "unitario": 10.0,
-    "caixa": 60.0
+    "caixa": 60.0,
+    "imagem": "assets/products/sprite.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -541,7 +564,8 @@
     "nome": "Sukita",
     "embalagem": "6 x 2 LT",
     "unitario": 7.0,
-    "caixa": 42.0
+    "caixa": 42.0,
+    "imagem": "assets/products/sukita.jpg"
   },
   {
     "categoria": "Isotônico",
@@ -701,7 +725,8 @@
     "nome": "Cerveja Amstel",
     "embalagem": "12 x 269 ML",
     "unitario": 3.75,
-    "caixa": 43.0
+    "caixa": 43.0,
+    "imagem": "assets/products/cerveja-amstel.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -709,7 +734,8 @@
     "nome": "Cerveja Amstel",
     "embalagem": "12 x 350 ML",
     "unitario": 4.25,
-    "caixa": 49.5
+    "caixa": 49.5,
+    "imagem": "assets/products/cerveja-amstel.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -717,7 +743,8 @@
     "nome": "Cerveja Amstel Ultra",
     "embalagem": "Lata 12 x 269 ML",
     "unitario": 4.5,
-    "caixa": 53.0
+    "caixa": 53.0,
+    "imagem": "assets/products/cerveja-amstel-ultra.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -725,7 +752,8 @@
     "nome": "Cerveja Amstel Ultra",
     "embalagem": "Long Neck 6X275ML",
     "unitario": 6.0,
-    "caixa": 36.0
+    "caixa": 36.0,
+    "imagem": "assets/products/cerveja-amstel-ultra.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -733,7 +761,8 @@
     "nome": "Cerveja Antarctica",
     "embalagem": "12 x 350 ML",
     "unitario": 4.25,
-    "caixa": 50.0
+    "caixa": 50.0,
+    "imagem": "assets/products/cerveja-antarctica.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -741,7 +770,8 @@
     "nome": "Cerveja Antarctica",
     "embalagem": "Latinha 15 x 269 ML",
     "unitario": 3.5,
-    "caixa": 51.0
+    "caixa": 51.0,
+    "imagem": "assets/products/cerveja-antarctica.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -749,7 +779,8 @@
     "nome": "Cerveja Antarctica",
     "embalagem": "Profissa 23X300 ML",
     "unitario": 3.25,
-    "caixa": 72.0
+    "caixa": 72.0,
+    "imagem": "assets/products/cerveja-antarctica.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -757,7 +788,8 @@
     "nome": "Cerveja Bavaria",
     "embalagem": "12 x 350 ML",
     "unitario": 3.25,
-    "caixa": 39.0
+    "caixa": 39.0,
+    "imagem": "assets/products/cerveja-bavaria.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -765,7 +797,8 @@
     "nome": "Cerveja Becks",
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 6.5,
-    "caixa": 39.0
+    "caixa": 39.0,
+    "imagem": "assets/products/cerveja-becks.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -773,7 +806,8 @@
     "nome": "Cerveja Becks",
     "embalagem": "Lata 8 x 350 ML",
     "unitario": 6.0,
-    "caixa": 48.0
+    "caixa": 48.0,
+    "imagem": "assets/products/cerveja-becks.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -789,7 +823,8 @@
     "nome": "Cerveja Brahma",
     "embalagem": "12 x 350 ML",
     "unitario": 4.25,
-    "caixa": 50.0
+    "caixa": 50.0,
+    "imagem": "assets/products/cerveja-brahma.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -797,7 +832,8 @@
     "nome": "Cerveja Brahma",
     "embalagem": "15 x 269 ML",
     "unitario": 3.5,
-    "caixa": 51.0
+    "caixa": 51.0,
+    "imagem": "assets/products/cerveja-brahma.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -805,7 +841,8 @@
     "nome": "Cerveja Brahma",
     "embalagem": "Long Neck 6 x 355 ML",
     "unitario": 5.0,
-    "caixa": 29.5
+    "caixa": 29.5,
+    "imagem": "assets/products/cerveja-brahma.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -813,7 +850,8 @@
     "nome": "Cerveja Brahma Duplo Malte",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.75,
-    "caixa": 56.0
+    "caixa": 56.0,
+    "imagem": "assets/products/cerveja-brahma-duplo-malte.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -821,7 +859,8 @@
     "nome": "Cerveja Brahma",
     "embalagem": "Profissa 23X300 ML",
     "unitario": 3.25,
-    "caixa": 72.0
+    "caixa": 72.0,
+    "imagem": "assets/products/cerveja-brahma.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -829,7 +868,8 @@
     "nome": "Cerveja Brahma Zero Alc",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.75,
-    "caixa": 57.0
+    "caixa": 57.0,
+    "imagem": "assets/products/cerveja-brahma-zero-alc.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -837,7 +877,8 @@
     "nome": "Cerveja Brahma Zero Alc L Neck",
     "embalagem": "6 x 355 ML",
     "unitario": 5.5,
-    "caixa": 33.0
+    "caixa": 33.0,
+    "imagem": "assets/products/cerveja-brahma-zero-alc-l-neck.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -845,7 +886,8 @@
     "nome": "Cerveja Brahma Malzebier",
     "embalagem": "LN 6 x 355 ML",
     "unitario": 6.75,
-    "caixa": 40.0
+    "caixa": 40.0,
+    "imagem": "assets/products/cerveja-brahma-malzebier.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -853,7 +895,8 @@
     "nome": "Cerveja Brahma Malzebier",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.0,
-    "caixa": 59.0
+    "caixa": 59.0,
+    "imagem": "assets/products/cerveja-brahma-malzebier.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -861,7 +904,8 @@
     "nome": "Cerveja Budweiser",
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 7.25,
-    "caixa": 43.0
+    "caixa": 43.0,
+    "imagem": "assets/products/cerveja-budweiser.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -869,7 +913,8 @@
     "nome": "Cerveja Budweiser L Neck Zero",
     "embalagem": "6 x 330 ML",
     "unitario": 6.25,
-    "caixa": 37.0
+    "caixa": 37.0,
+    "imagem": "assets/products/cerveja-budweiser-l-neck-zero.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -877,7 +922,8 @@
     "nome": "Cerveja Budweiser Lata Zero",
     "embalagem": "8 x 350 ML",
     "unitario": 5.0,
-    "caixa": 40.0
+    "caixa": 40.0,
+    "imagem": "assets/products/cerveja-budweiser-lata-zero.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -885,7 +931,8 @@
     "nome": "Cerveja Budweiser",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.0,
-    "caixa": 58.0
+    "caixa": 58.0,
+    "imagem": "assets/products/cerveja-budweiser.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -893,7 +940,8 @@
     "nome": "Cerveja Budweiser",
     "embalagem": "Latinha 15 x 269 ML",
     "unitario": 4.0,
-    "caixa": 56.0
+    "caixa": 56.0,
+    "imagem": "assets/products/cerveja-budweiser.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -901,7 +949,8 @@
     "nome": "Cerveja Caracu",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 6.0,
-    "caixa": 71.0
+    "caixa": 71.0,
+    "imagem": "assets/products/cerveja-caracu.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -909,7 +958,8 @@
     "nome": "Cerveja Caracu",
     "embalagem": "LN 6 x 330 ML",
     "unitario": 6.0,
-    "caixa": 36.0
+    "caixa": 36.0,
+    "imagem": "assets/products/cerveja-caracu.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -917,7 +967,8 @@
     "nome": "Cerveja Corona",
     "embalagem": "Long Neck 6 x 355 ML",
     "unitario": 8.5,
-    "caixa": 51.0
+    "caixa": 51.0,
+    "imagem": "assets/products/cerveja-corona.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -925,7 +976,8 @@
     "nome": "Cerveja Corona Zero",
     "embalagem": "Long Neck 6 x 355 ML",
     "unitario": 8.5,
-    "caixa": 51.0
+    "caixa": 51.0,
+    "imagem": "assets/products/cerveja-corona-zero.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -933,7 +985,8 @@
     "nome": "Cerveja Corona Zero",
     "embalagem": "Lata 8X350 ML",
     "unitario": 7.0,
-    "caixa": 55.0
+    "caixa": 55.0,
+    "imagem": "assets/products/cerveja-corona-zero.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -941,7 +994,8 @@
     "nome": "Cerveja Corona",
     "embalagem": "Lata 8 x 350 ML",
     "unitario": 7.5,
-    "caixa": 59.0
+    "caixa": 59.0,
+    "imagem": "assets/products/cerveja-corona.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -949,7 +1003,8 @@
     "nome": "Cerveja Coronita",
     "embalagem": "Long Neck 6 x 210 ML",
     "unitario": 6.75,
-    "caixa": 40.0
+    "caixa": 40.0,
+    "imagem": "assets/products/cerveja-coronita.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1005,7 +1060,8 @@
     "nome": "Cerveja Heineken Barril 5 Litros",
     "embalagem": "",
     "unitario": 130.0,
-    "caixa": 130.0
+    "caixa": 130.0,
+    "imagem": "assets/products/cerveja-heineken-barril-5-litros.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1013,7 +1069,8 @@
     "nome": "Cerveja Heineken",
     "embalagem": "Lata 8 x 269 ML",
     "unitario": 5.0,
-    "caixa": 40.0
+    "caixa": 40.0,
+    "imagem": "assets/products/cerveja-heineken.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1021,7 +1078,8 @@
     "nome": "Cerveja Heineken",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 6.5,
-    "caixa": 78.0
+    "caixa": 78.0,
+    "imagem": "assets/products/cerveja-heineken.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1029,7 +1087,8 @@
     "nome": "Cerveja Heineken Lata Zero",
     "embalagem": "12 x 350 ML",
     "unitario": 6.75,
-    "caixa": 80.0
+    "caixa": 80.0,
+    "imagem": "assets/products/cerveja-heineken-lata-zero.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1037,7 +1096,8 @@
     "nome": "Cerveja Heineken",
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 7.5,
-    "caixa": 45.0
+    "caixa": 45.0,
+    "imagem": "assets/products/cerveja-heineken.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1045,7 +1105,8 @@
     "nome": "Cerveja Heineken",
     "embalagem": "Long Neck 6 x 250 ML",
     "unitario": 6.75,
-    "caixa": 40.5
+    "caixa": 40.5,
+    "imagem": "assets/products/cerveja-heineken.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1053,7 +1114,8 @@
     "nome": "Cerveja Heineken Long Neck Zero 6 x 330",
     "embalagem": "",
     "unitario": 8.0,
-    "caixa": 48.0
+    "caixa": 48.0,
+    "imagem": "assets/products/cerveja-heineken-long-neck-zero-6-x-330.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1061,7 +1123,8 @@
     "nome": "Cerveja Heineken Garr",
     "embalagem": "24 x 600 ML",
     "unitario": 12.0,
-    "caixa": 285.0
+    "caixa": 285.0,
+    "imagem": "assets/products/cerveja-heineken-garr.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1109,7 +1172,8 @@
     "nome": "Cerveja Itaipava",
     "embalagem": "Latinha 12 x 269 ML",
     "unitario": 3.25,
-    "caixa": 38.0
+    "caixa": 38.0,
+    "imagem": "assets/products/cerveja-itaipava.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1117,7 +1181,8 @@
     "nome": "Cerveja Michelob Ultra Long Neck",
     "embalagem": "",
     "unitario": 7.0,
-    "caixa": 42.0
+    "caixa": 42.0,
+    "imagem": "assets/products/cerveja-michelob-ultra-long-neck.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1125,7 +1190,8 @@
     "nome": "Cerveja Michelob Ultra",
     "embalagem": "Lata 8 x 350 ML",
     "unitario": 6.0,
-    "caixa": 48.0
+    "caixa": 48.0,
+    "imagem": "assets/products/cerveja-michelob-ultra.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1133,7 +1199,8 @@
     "nome": "Cerveja Michelob Ultra",
     "embalagem": "Lata 8 x 269 ML",
     "unitario": 4.0,
-    "caixa": 31.0
+    "caixa": 31.0,
+    "imagem": "assets/products/cerveja-michelob-ultra.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1149,7 +1216,8 @@
     "nome": "Cerveja Original",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.5,
-    "caixa": 66.0
+    "caixa": 66.0,
+    "imagem": "assets/products/cerveja-original.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1157,7 +1225,8 @@
     "nome": "Cerveja Original",
     "embalagem": "Palito 12 x 269 ML",
     "unitario": 4.25,
-    "caixa": 62.0
+    "caixa": 62.0,
+    "imagem": "assets/products/cerveja-original.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1165,7 +1234,8 @@
     "nome": "Cerveja Original",
     "embalagem": "Profissa 23 x 300 ML",
     "unitario": 3.75,
-    "caixa": 84.0
+    "caixa": 84.0,
+    "imagem": "assets/products/cerveja-original.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1213,7 +1283,8 @@
     "nome": "Cerveja Skol",
     "embalagem": "12 x 350 ML",
     "unitario": 4.0,
-    "caixa": 48.0
+    "caixa": 48.0,
+    "imagem": "assets/products/cerveja-skol.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1221,7 +1292,8 @@
     "nome": "Cerveja Skol",
     "embalagem": "Latinha 15 x 269 ML",
     "unitario": 3.5,
-    "caixa": 51.0
+    "caixa": 51.0,
+    "imagem": "assets/products/cerveja-skol.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1229,7 +1301,8 @@
     "nome": "Cerveja Skol",
     "embalagem": "Profissa 23X300 ML",
     "unitario": 3.25,
-    "caixa": 72.0
+    "caixa": 72.0,
+    "imagem": "assets/products/cerveja-skol.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1237,7 +1310,8 @@
     "nome": "Cerveja Sol Premium",
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 6.5,
-    "caixa": 39.0
+    "caixa": 39.0,
+    "imagem": "assets/products/cerveja-sol-premium.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1245,7 +1319,8 @@
     "nome": "Cerveja Sol Zero",
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 6.5,
-    "caixa": 39.0
+    "caixa": 39.0,
+    "imagem": "assets/products/cerveja-sol-zero.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1253,7 +1328,8 @@
     "nome": "Cerveja Sol Sem Gluten",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.25,
-    "caixa": 63.0
+    "caixa": 63.0,
+    "imagem": "assets/products/cerveja-sol-sem-gluten.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1261,7 +1337,8 @@
     "nome": "Cerveja Spaten",
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.75,
-    "caixa": 68.0
+    "caixa": 68.0,
+    "imagem": "assets/products/cerveja-spaten.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1269,7 +1346,8 @@
     "nome": "Cerveja Spaten",
     "embalagem": "Lata 8 x 269 ML",
     "unitario": 4.0,
-    "caixa": 31.0
+    "caixa": 31.0,
+    "imagem": "assets/products/cerveja-spaten.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1277,7 +1355,8 @@
     "nome": "Cerveja Spaten",
     "embalagem": "Long Neck 6 x 350 ML",
     "unitario": 7.0,
-    "caixa": 42.0
+    "caixa": 42.0,
+    "imagem": "assets/products/cerveja-spaten.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1285,7 +1364,8 @@
     "nome": "Cerveja Stella Artois",
     "embalagem": "6 x 330 ML",
     "unitario": 7.5,
-    "caixa": 45.0
+    "caixa": 45.0,
+    "imagem": "assets/products/cerveja-stella-artois.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1293,7 +1373,8 @@
     "nome": "Cerveja Stella Artois",
     "embalagem": "8 x 269 ML",
     "unitario": 4.5,
-    "caixa": 35.0
+    "caixa": 35.0,
+    "imagem": "assets/products/cerveja-stella-artois.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1301,7 +1382,8 @@
     "nome": "Cerveja Stella Artois",
     "embalagem": "Lata 8 x 355 ML",
     "unitario": 6.0,
-    "caixa": 48.0
+    "caixa": 48.0,
+    "imagem": "assets/products/cerveja-stella-artois.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1333,7 +1415,8 @@
     "nome": "Cerveja 1906",
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 8.5,
-    "caixa": 51.0
+    "caixa": 51.0,
+    "imagem": "assets/products/cerveja-1906.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1357,7 +1440,8 @@
     "nome": "Aguardente Pirassununga 51",
     "embalagem": "",
     "unitario": 18.0,
-    "caixa": 18.0
+    "caixa": 18.0,
+    "imagem": "assets/products/aguardente-pirassununga-51.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1365,7 +1449,8 @@
     "nome": "Aguardente Velho Barreiro",
     "embalagem": "",
     "unitario": 16.0,
-    "caixa": 16.0
+    "caixa": 16.0,
+    "imagem": "assets/products/aguardente-velho-barreiro.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1389,7 +1474,8 @@
     "nome": "Amarula",
     "embalagem": "750 ML",
     "unitario": 140.0,
-    "caixa": 140.0
+    "caixa": 140.0,
+    "imagem": "assets/products/amarula.jpg"
   },
   {
     "categoria": "Licor / Aperitivo",
@@ -1397,7 +1483,8 @@
     "nome": "Amarula",
     "embalagem": "375 ML",
     "unitario": 81.0,
-    "caixa": 81.0
+    "caixa": 81.0,
+    "imagem": "assets/products/amarula.jpg"
   },
   {
     "categoria": "Licor / Aperitivo",
@@ -1405,7 +1492,8 @@
     "nome": "Aperol",
     "embalagem": "",
     "unitario": 65.0,
-    "caixa": 65.0
+    "caixa": 65.0,
+    "imagem": "assets/products/aperol.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1437,7 +1525,8 @@
     "nome": "Campari",
     "embalagem": "748 ML",
     "unitario": 65.0,
-    "caixa": 65.0
+    "caixa": 65.0,
+    "imagem": "assets/products/campari.jpg"
   },
   {
     "categoria": "Licor / Aperitivo",
@@ -1445,7 +1534,8 @@
     "nome": "Campari",
     "embalagem": "1 LT",
     "unitario": 76.0,
-    "caixa": 76.0
+    "caixa": 76.0,
+    "imagem": "assets/products/campari.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1517,7 +1607,8 @@
     "nome": "Gin Beefeater London Dry",
     "embalagem": "750 ML",
     "unitario": 115.0,
-    "caixa": 115.0
+    "caixa": 115.0,
+    "imagem": "assets/products/gin-beefeater-london-dry.jpg"
   },
   {
     "categoria": "Gin",
@@ -1525,7 +1616,8 @@
     "nome": "Gin Bonbay",
     "embalagem": "750 ML",
     "unitario": 110.0,
-    "caixa": 110.0
+    "caixa": 110.0,
+    "imagem": "assets/products/gin-bonbay.jpg"
   },
   {
     "categoria": "Gin",
@@ -1533,7 +1625,8 @@
     "nome": "Gin Tanqueray London Dry",
     "embalagem": "750 ML",
     "unitario": 135.0,
-    "caixa": 135.0
+    "caixa": 135.0,
+    "imagem": "assets/products/gin-tanqueray-london-dry.jpg"
   },
   {
     "categoria": "Gin",
@@ -1541,7 +1634,8 @@
     "nome": "Gin Tanqueray & Tonic",
     "embalagem": "275 ML",
     "unitario": 22.0,
-    "caixa": 22.0
+    "caixa": 22.0,
+    "imagem": "assets/products/gin-tanqueray-tonic.jpg"
   },
   {
     "categoria": "Gin",
@@ -1725,7 +1819,8 @@
     "nome": "Licor 43",
     "embalagem": "",
     "unitario": 180.0,
-    "caixa": 180.0
+    "caixa": 180.0,
+    "imagem": "assets/products/licor-43.jpg"
   },
   {
     "categoria": "Licor / Aperitivo",
@@ -1757,7 +1852,8 @@
     "nome": "Rum Bacardi Big Apple",
     "embalagem": "1 LT",
     "unitario": 40.0,
-    "caixa": 40.0
+    "caixa": 40.0,
+    "imagem": "assets/products/rum-bacardi-big-apple.jpg"
   },
   {
     "categoria": "Rum",
@@ -1765,7 +1861,8 @@
     "nome": "Rum Bacardi Carta Blanca",
     "embalagem": "980 ML",
     "unitario": 48.0,
-    "caixa": 48.0
+    "caixa": 48.0,
+    "imagem": "assets/products/rum-bacardi-carta-blanca.jpg"
   },
   {
     "categoria": "Rum",
@@ -1773,7 +1870,8 @@
     "nome": "Rum Bacardi Carta Ouro",
     "embalagem": "980 ML",
     "unitario": 53.0,
-    "caixa": 53.0
+    "caixa": 53.0,
+    "imagem": "assets/products/rum-bacardi-carta-ouro.jpg"
   },
   {
     "categoria": "Rum",
@@ -1813,7 +1911,8 @@
     "nome": "Tequila Jose Cuervo Branca",
     "embalagem": "750 ML",
     "unitario": 135.0,
-    "caixa": 135.0
+    "caixa": 135.0,
+    "imagem": "assets/products/tequila-jose-cuervo-branca.jpg"
   },
   {
     "categoria": "Tequila",
@@ -1821,7 +1920,8 @@
     "nome": "Tequila Jose Cuervo Especial Ouro",
     "embalagem": "750 ML",
     "unitario": 135.0,
-    "caixa": 135.0
+    "caixa": 135.0,
+    "imagem": "assets/products/tequila-jose-cuervo-especial-ouro.jpg"
   },
   {
     "categoria": "Tequila",
@@ -1845,7 +1945,8 @@
     "nome": "Vodka Absolut",
     "embalagem": "",
     "unitario": 115.0,
-    "caixa": 115.0
+    "caixa": 115.0,
+    "imagem": "assets/products/vodka-absolut.jpg"
   },
   {
     "categoria": "Vodka",
@@ -1853,7 +1954,8 @@
     "nome": "Vodka Ciroc Red Berry (Vermelha)",
     "embalagem": "",
     "unitario": 190.0,
-    "caixa": 190.0
+    "caixa": 190.0,
+    "imagem": "assets/products/vodka-ciroc-red-berry-vermelha.jpg"
   },
   {
     "categoria": "Vodka",
@@ -1861,7 +1963,8 @@
     "nome": "Vodka Ciroc Snap Frost (Azul)",
     "embalagem": "",
     "unitario": 190.0,
-    "caixa": 190.0
+    "caixa": 190.0,
+    "imagem": "assets/products/vodka-ciroc-snap-frost-azul.jpg"
   },
   {
     "categoria": "Vodka",
@@ -1925,7 +2028,8 @@
     "nome": "Vodka Smirnoff",
     "embalagem": "1 LT",
     "unitario": 45.0,
-    "caixa": 45.0
+    "caixa": 45.0,
+    "imagem": "assets/products/vodka-smirnoff.jpg"
   },
   {
     "categoria": "Whisky",
@@ -1949,7 +2053,8 @@
     "nome": "Whisky Ballantines Finest",
     "embalagem": "1 LT",
     "unitario": 105.0,
-    "caixa": 105.0
+    "caixa": 105.0,
+    "imagem": "assets/products/whisky-ballantines-finest.jpg"
   },
   {
     "categoria": "Whisky",
@@ -1957,7 +2062,8 @@
     "nome": "Whisky Ballantines Finest",
     "embalagem": "0,750 LT",
     "unitario": 75.0,
-    "caixa": 75.0
+    "caixa": 75.0,
+    "imagem": "assets/products/whisky-ballantines-finest.jpg"
   },
   {
     "categoria": "Whisky",
@@ -1997,7 +2103,8 @@
     "nome": "Whisky Chivas Regal 12 Years",
     "embalagem": "750 ML",
     "unitario": 130.0,
-    "caixa": 130.0
+    "caixa": 130.0,
+    "imagem": "assets/products/whisky-chivas-regal-12-years.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2005,7 +2112,8 @@
     "nome": "Whisky Chivas Regal 12 Years",
     "embalagem": "1 LT",
     "unitario": 170.0,
-    "caixa": 170.0
+    "caixa": 170.0,
+    "imagem": "assets/products/whisky-chivas-regal-12-years.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2013,7 +2121,8 @@
     "nome": "Whisky Grants",
     "embalagem": "1 LT",
     "unitario": 72.0,
-    "caixa": 72.0
+    "caixa": 72.0,
+    "imagem": "assets/products/whisky-grants.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2021,7 +2130,8 @@
     "nome": "Whisky J Walker Red",
     "embalagem": "1 LT",
     "unitario": 120.0,
-    "caixa": 120.0
+    "caixa": 120.0,
+    "imagem": "assets/products/whisky-j-walker-red.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2029,7 +2139,8 @@
     "nome": "Whisky J Walker Red",
     "embalagem": "750 ML",
     "unitario": 90.0,
-    "caixa": 90.0
+    "caixa": 90.0,
+    "imagem": "assets/products/whisky-j-walker-red.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2037,7 +2148,8 @@
     "nome": "Whisky J Walker Black",
     "embalagem": "1 LT",
     "unitario": 225.0,
-    "caixa": 225.0
+    "caixa": 225.0,
+    "imagem": "assets/products/whisky-j-walker-black.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2045,7 +2157,8 @@
     "nome": "Whisky Jack Daniels",
     "embalagem": "375 ML",
     "unitario": 62.0,
-    "caixa": 62.0
+    "caixa": 62.0,
+    "imagem": "assets/products/whisky-jack-daniels.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2053,7 +2166,8 @@
     "nome": "Whisky Jack Daniels / Jack Daniels Noney",
     "embalagem": "1 LT",
     "unitario": 170.0,
-    "caixa": 170.0
+    "caixa": 170.0,
+    "imagem": "assets/products/whisky-jack-daniels-jack-daniels-noney.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2061,7 +2175,8 @@
     "nome": "Whisky Jack Daniels Fire",
     "embalagem": "1 LT",
     "unitario": 160.0,
-    "caixa": 160.0
+    "caixa": 160.0,
+    "imagem": "assets/products/whisky-jack-daniels-fire.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2109,7 +2224,8 @@
     "nome": "Whisky White Horse 8 Years",
     "embalagem": "1 LT",
     "unitario": 100.0,
-    "caixa": 100.0
+    "caixa": 100.0,
+    "imagem": "assets/products/whisky-white-horse-8-years.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2117,7 +2233,8 @@
     "nome": "Whisky Jack Daniels Com Coca Cola",
     "embalagem": "269 ML",
     "unitario": 12.0,
-    "caixa": 12.0
+    "caixa": 12.0,
+    "imagem": "assets/products/whisky-jack-daniels-com-coca-cola.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2221,7 +2338,8 @@
     "nome": "Cerveja Colorado Appia",
     "embalagem": "600 ML",
     "unitario": 17.0,
-    "caixa": 17.0
+    "caixa": 17.0,
+    "imagem": "assets/products/cerveja-colorado-appia.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2229,7 +2347,8 @@
     "nome": "Cerveja Colorado Caium",
     "embalagem": "600 ML",
     "unitario": 17.0,
-    "caixa": 17.0
+    "caixa": 17.0,
+    "imagem": "assets/products/cerveja-colorado-caium.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2237,7 +2356,8 @@
     "nome": "Cerveja Colorado Demoiselle",
     "embalagem": "600 ML",
     "unitario": 17.0,
-    "caixa": 17.0
+    "caixa": 17.0,
+    "imagem": "assets/products/cerveja-colorado-demoiselle.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2245,7 +2365,8 @@
     "nome": "Cerveja Colorado Indica",
     "embalagem": "600 ML",
     "unitario": 17.0,
-    "caixa": 17.0
+    "caixa": 17.0,
+    "imagem": "assets/products/cerveja-colorado-indica.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2253,7 +2374,8 @@
     "nome": "Cerveja Colorado Ribeirao",
     "embalagem": "600 ML",
     "unitario": 17.0,
-    "caixa": 17.0
+    "caixa": 17.0,
+    "imagem": "assets/products/cerveja-colorado-ribeirao.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2261,7 +2383,8 @@
     "nome": "Cerveja Colorado Ribeirao Long",
     "embalagem": "350 ML",
     "unitario": 8.0,
-    "caixa": 8.0
+    "caixa": 8.0,
+    "imagem": "assets/products/cerveja-colorado-ribeirao-long.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2357,7 +2480,8 @@
     "nome": "Cerveja Estrela Galicia",
     "embalagem": "Lata 350 ML",
     "unitario": 6.0,
-    "caixa": 70.0
+    "caixa": 70.0,
+    "imagem": "assets/products/cerveja-estrela-galicia.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2365,7 +2489,8 @@
     "nome": "Cerveja Estrela Galicia",
     "embalagem": "Long Neck 6X355 ML",
     "unitario": 8.25,
-    "caixa": 49.0
+    "caixa": 49.0,
+    "imagem": "assets/products/cerveja-estrela-galicia.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2373,7 +2498,8 @@
     "nome": "Cerveja Estrela Galicia Zero",
     "embalagem": "Lata 330 ML",
     "unitario": 6.0,
-    "caixa": 36.0
+    "caixa": 36.0,
+    "imagem": "assets/products/cerveja-estrela-galicia-zero.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2381,7 +2507,8 @@
     "nome": "Cerveja Goose Iland Midway",
     "embalagem": "Long Neck 330 ML",
     "unitario": 10.0,
-    "caixa": 10.0
+    "caixa": 10.0,
+    "imagem": "assets/products/cerveja-goose-iland-midway.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2405,7 +2532,8 @@
     "nome": "Cerveja Hougaarden",
     "embalagem": "Long Neck 330 ML",
     "unitario": 8.5,
-    "caixa": 8.5
+    "caixa": 8.5,
+    "imagem": "assets/products/cerveja-hougaarden.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2413,7 +2541,8 @@
     "nome": "Cerveja Hougaarden",
     "embalagem": "Lata 269 ML",
     "unitario": 5.25,
-    "caixa": 5.25
+    "caixa": 5.25,
+    "imagem": "assets/products/cerveja-hougaarden.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2549,7 +2678,8 @@
     "nome": "Cerveja Super Bock",
     "embalagem": "250 ML",
     "unitario": 8.5,
-    "caixa": 8.5
+    "caixa": 8.5,
+    "imagem": "assets/products/cerveja-super-bock.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2717,7 +2847,8 @@
     "nome": "Kinder Ovo",
     "embalagem": "",
     "unitario": 10.0,
-    "caixa": 10.0
+    "caixa": 10.0,
+    "imagem": "assets/products/kinder-ovo.jpg"
   },
   {
     "categoria": "Gelo",
@@ -2973,7 +3104,8 @@
     "nome": "Vinho Argentino Trivento",
     "embalagem": "",
     "unitario": 60.0,
-    "caixa": 60.0
+    "caixa": 60.0,
+    "imagem": "assets/products/vinho-argentino-trivento.jpg"
   },
   {
     "categoria": "Vinho",
@@ -2989,7 +3121,8 @@
     "nome": "Vinho Chileno Casillero Del Diablo",
     "embalagem": "",
     "unitario": 55.0,
-    "caixa": 55.0
+    "caixa": 55.0,
+    "imagem": "assets/products/vinho-chileno-casillero-del-diablo.jpg"
   },
   {
     "categoria": "Vinho",
@@ -3021,7 +3154,8 @@
     "nome": "Vinho Chileno Gato Negro",
     "embalagem": "",
     "unitario": 40.0,
-    "caixa": 40.0
+    "caixa": 40.0,
+    "imagem": "assets/products/vinho-chileno-gato-negro.jpg"
   },
   {
     "categoria": "Vinho",
@@ -3029,7 +3163,8 @@
     "nome": "Vinho Chileno Santa Carolina",
     "embalagem": "",
     "unitario": 34.0,
-    "caixa": 34.0
+    "caixa": 34.0,
+    "imagem": "assets/products/vinho-chileno-santa-carolina.jpg"
   },
   {
     "categoria": "Vinho",
@@ -3165,7 +3300,8 @@
     "nome": "Vinho Portugues Mateus Rose",
     "embalagem": "750 ML",
     "unitario": 70.0,
-    "caixa": 70.0
+    "caixa": 70.0,
+    "imagem": "assets/products/vinho-portugues-mateus-rose.jpg"
   },
   {
     "categoria": "Vinho",
@@ -3237,7 +3373,8 @@
     "nome": "Finni",
     "embalagem": "15g",
     "unitario": 2.0,
-    "caixa": 2.0
+    "caixa": 2.0,
+    "imagem": "assets/products/finni.jpg"
   },
   {
     "categoria": "Doces",
@@ -3245,7 +3382,8 @@
     "nome": "Finni",
     "embalagem": "27g",
     "unitario": 3.0,
-    "caixa": 3.0
+    "caixa": 3.0,
+    "imagem": "assets/products/finni.jpg"
   },
   {
     "categoria": "Doces",
@@ -3253,7 +3391,8 @@
     "nome": "Finni",
     "embalagem": "35g",
     "unitario": 3.5,
-    "caixa": 3.5
+    "caixa": 3.5,
+    "imagem": "assets/products/finni.jpg"
   },
   {
     "categoria": "Doces",
@@ -3261,7 +3400,8 @@
     "nome": "Finni",
     "embalagem": "40g",
     "unitario": 4.5,
-    "caixa": 4.5
+    "caixa": 4.5,
+    "imagem": "assets/products/finni.jpg"
   },
   {
     "categoria": "Salgados",

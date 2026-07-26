@@ -7,7 +7,7 @@
  * a changed produtos.json alone will NOT trigger the "novo catálogo
  * disponível" prompt. See README.md for the release checklist.
  */
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME = `atacadao-cache-${CACHE_VERSION}`;
 
 const APP_SHELL = [
