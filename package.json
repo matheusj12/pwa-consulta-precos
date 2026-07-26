@@ -2,9 +2,10 @@
   "name": "pwa-consulta-precos",
   "version": "1.0.0",
   "private": true,
-  "description": "PWA de consulta de preços de bebidas - ATACADÃO. 100% estático, sem backend.",
+  "description": "PWA de consulta de preços de bebidas - ATACADÃO. Frontend estático + Postgres/Blob na Vercel.",
   "scripts": {
-    "dev": "npx --yes serve . -l 5000"
+    "dev": "npx --yes serve . -l 5000",
+    "migrate": "node scripts/migrate.js"
   },
   "dependencies": {
     "@vercel/blob": "^2.6.1",

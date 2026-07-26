@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Admin · Atacadão</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="icon" href="assets/favicon.png" />
+  <link rel="stylesheet" href="css/reset.css" />
+  <link rel="stylesheet" href="css/variables.css" />
+  <style>
+    html, body { background: var(--color-bg); color: var(--color-text); font-family: var(--font-family); }
+    .admin-header {
+      position: sticky; top: 0; z-index: 10;
+      background: rgba(10,10,11,0.92); backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--color-border);
+      padding: 14px 20px;
+    }
+    .admin-header h1 { font-size: 1.05rem; }
+    .admin-header .gold { color: var(--color-gold); }
+    .admin-header .count { color: var(--color-text-faint); font-size: 0.8rem; margin-top: 2px; }
+    .admin-search {
+      width: 100%; max-width: 420px; margin-top: 10px;
+      background: var(--color-bg-elevated); border: 1px solid var(--color-border);
+      border-radius: var(--radius-md); padding: 10px 14px; color: var(--color-text);
+    }
+    .admin-search:focus { border-color: var(--color-gold); outline: none; }
+    .admin-list { max-width: 900px; margin: 0 auto; padding: 16px 20px 80px; }
+    .admin-row {
+      display: grid;
+      grid-template-columns: 56px 1fr 110px 110px 90px;
+      gap: 12px; align-items: center;
+      background: var(--color-bg-card); border: 1px solid var(--color-border);
+      border-radius: var(--radius-md); padding: 10px 12px; margin-bottom: 8px;
+    }
+    .admin-thumb {
+      width: 56px; height: 56px; border-radius: var(--radius-sm);
+      background: var(--color-bg-elevated); overflow: hidden; position: relative;
+      cursor: pointer; flex-shrink: 0;
+    }
+    .admin-thumb img { width: 100%; height: 100%; object-fit: cover; }
+    .admin-thumb input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+    .admin-thumb-placeholder {
+      display: flex; align-items: center; justify-content: center; height: 100%;
+      color: var(--color-text-faint); font-size: 0.6rem; text-align: center;
+    }
+    .admin-info .nome { font-weight: 600; font-size: 0.9rem; }
+    .admin-info .meta { font-size: 0.72rem; color: var(--color-text-muted); }
+    .admin-field { display: flex; flex-direction: column; gap: 2px; }
+    .admin-field label { font-size: 0.6rem; text-transform: uppercase; color: var(--color-text-faint); }
+    .admin-field input {
+      background: var(--color-bg-elevated); border: 1px solid var(--color-border);
+      border-radius: var(--radius-sm); padding: 6px 8px; color: var(--color-text); font-size: 0.85rem;
+      width: 100%;
+    }
+    .admin-field input:focus { border-color: var(--color-gold); outline: none; }
+    .admin-status { font-size: 0.68rem; text-align: center; }
+    .admin-status.saved { color: var(--color-success); }
+    .admin-status.saving { color: var(--color-text-faint); }
+    .admin-status.error { color: var(--color-danger); }
+    @media (max-width: 640px) {
+      .admin-row { grid-template-columns: 44px 1fr; grid-template-areas: "thumb info" "unit caixa" "status status"; }
+      .admin-thumb { width: 44px; height: 44px; }
+      .admin-row > *:nth-child(3) { grid-area: unit; }
+      .admin-row > *:nth-child(4) { grid-area: caixa; }
+      .admin-row > *:nth-child(5) { grid-area: status; }
+    }
+  </style>
+</head>
+<body>
+  <div class="admin-header">
+    <h1><span class="gold">ATACADÃO</span> · Admin de Catálogo</h1>
+    <div class="count" id="admin-count"></div>
+    <input class="admin-search" id="admin-search" type="text" placeholder="Buscar produto..." autocomplete="off" />
+  </div>
+  <div class="admin-list" id="admin-list"></div>
+
+  <script src="js/admin.js"></script>
+</body>
+</html>

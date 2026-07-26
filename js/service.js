@@ -1,13 +1,15 @@
 /**
- * ProductService: fetches data/produtos.json exactly once and keeps the
- * catalog in memory for the lifetime of the page. Nothing else in the app
- * is allowed to fetch this file again — search and rendering both read
- * from the array this module exposes.
+ * ProductService: fetches /api/produtos exactly once and keeps the catalog
+ * in memory for the lifetime of the page. Nothing else in the app is
+ * allowed to fetch it again — search and rendering both read from the
+ * array this module exposes.
  */
 const ProductService = (() => {
   let products = null;
   let loadingPromise = null;
 
+  // The API already assigns a stable id per product (same hash the app used
+  // when data lived in a static JSON file), kept here only as a fallback.
   function assignId(product) {
     const key = [product.categoria, product.marca, product.nome, product.embalagem].join('|');
     return Utils.hashString(key);
@@ -17,7 +19,7 @@ const ProductService = (() => {
     if (products) return products;
     if (loadingPromise) return loadingPromise;
 
-    loadingPromise = fetch('data/produtos.json', { cache: 'no-cache' })
+    loadingPromise = fetch('/api/produtos', { cache: 'no-cache' })
       .then((res) => {
         if (!res.ok) throw new Error(`Falha ao carregar catálogo (${res.status})`);
         return res.json();
@@ -25,7 +27,7 @@ const ProductService = (() => {
       .then((raw) => {
         products = raw.map((item) => ({
           ...item,
-          id: assignId(item),
+          id: item.id || assignId(item),
         }));
         return products;
       });
