@@ -29,17 +29,25 @@
     .admin-row {
       display: grid;
       grid-template-columns: 56px 1fr 110px 110px 90px;
-      gap: 12px; align-items: center;
+      grid-template-areas:
+        "thumb info unit caixa status"
+        "thumb url  url  url  url";
+      gap: 8px 12px; align-items: center;
       background: var(--color-bg-card); border: 1px solid var(--color-border);
       border-radius: var(--radius-md); padding: 10px 12px; margin-bottom: 8px;
     }
+    .admin-row > *:nth-child(1) { grid-area: thumb; }
+    .admin-row > *:nth-child(2) { grid-area: info; }
+    .admin-row > *:nth-child(3) { grid-area: unit; }
+    .admin-row > *:nth-child(4) { grid-area: caixa; }
+    .admin-row > *:nth-child(5) { grid-area: status; }
+    .admin-row > *:nth-child(6) { grid-area: url; }
     .admin-thumb {
       width: 56px; height: 56px; border-radius: var(--radius-sm);
       background: var(--color-bg-elevated); overflow: hidden; position: relative;
-      cursor: pointer; flex-shrink: 0;
+      flex-shrink: 0;
     }
     .admin-thumb img { width: 100%; height: 100%; object-fit: cover; }
-    .admin-thumb input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
     .admin-thumb-placeholder {
       display: flex; align-items: center; justify-content: center; height: 100%;
       color: var(--color-text-faint); font-size: 0.6rem; text-align: center;
@@ -54,16 +62,17 @@
       width: 100%;
     }
     .admin-field input:focus { border-color: var(--color-gold); outline: none; }
+    .admin-field-url input { font-size: 0.78rem; color: var(--color-text-muted); }
     .admin-status { font-size: 0.68rem; text-align: center; }
     .admin-status.saved { color: var(--color-success); }
     .admin-status.saving { color: var(--color-text-faint); }
     .admin-status.error { color: var(--color-danger); }
     @media (max-width: 640px) {
-      .admin-row { grid-template-columns: 44px 1fr; grid-template-areas: "thumb info" "unit caixa" "status status"; }
+      .admin-row {
+        grid-template-columns: 44px 1fr;
+        grid-template-areas: "thumb info" "unit caixa" "status status" "url url";
+      }
       .admin-thumb { width: 44px; height: 44px; }
-      .admin-row > *:nth-child(3) { grid-area: unit; }
-      .admin-row > *:nth-child(4) { grid-area: caixa; }
-      .admin-row > *:nth-child(5) { grid-area: status; }
     }
   </style>
 </head>

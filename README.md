@@ -5,14 +5,13 @@ Progressive Web App para consulta rápida de preços de bebidas. O frontend é e
 ## Stack
 
 Frontend: HTML5, CSS3, JavaScript ES6+ (sem frameworks), Web App Manifest, Service Worker, LocalStorage.
-Backend: funções serverless da Vercel (Node.js) + Postgres (dados) + Vercel Blob (imagens enviadas pelo admin).
+Backend: funções serverless da Vercel (Node.js) + Postgres (dados). Imagens de produto são hyperlinks (URL externa) guardados junto do produto — nada de upload/hospedagem própria.
 
 ## Estrutura
 
 ```
 pwa-consulta-precos/
 ├── assets/            logo, ícones PWA (192/512/maskable), favicon, splash
-│   └── products/       fotos de produto baixadas na importação inicial
 ├── css/
 │   ├── reset.css      normalização básica do navegador
 │   ├── variables.css  paleta de cores, espaçamentos, sombras, easing
@@ -26,12 +25,11 @@ pwa-consulta-precos/
 │   ├── search.js       índice de busca em memória + filtro por texto/categoria
 │   ├── ui.js           toda manipulação de DOM (cards, chips, toasts, splash)
 │   ├── app.js          orquestrador: liga estado, eventos e Service Worker
-│   └── admin.js        painel /admin: lista, edita preço, faz upload de imagem
+│   └── admin.js        painel /admin: lista, edita preço, edita URL da imagem
 ├── api/
 │   ├── produtos.js           GET público — catálogo completo (lido do Postgres)
 │   └── admin/
-│       ├── produtos.js       GET/PUT — listar e editar produtos (sem autenticação)
-│       └── upload.js         POST — recebe imagem em base64, sobe pro Vercel Blob
+│       └── produtos.js       GET/PUT — listar e editar produtos (sem autenticação)
 ├── lib/
 │   ├── db.js           pool de conexão Postgres compartilhado pelas functions
 │   └── hash.js          mesmo hash de id usado no frontend (js/utils.js)
@@ -51,13 +49,12 @@ Cada arquivo JS tem uma única responsabilidade — `search.js` nunca toca o DOM
 
 O catálogo em `data/produtos.json` (413 itens) foi importado da tabela de preços real da distribuidora; categoria, marca e embalagem foram inferidos automaticamente a partir do texto original. Esse arquivo agora só serve como **seed** para `scripts/migrate.js` — depois da primeira migração, quem manda é o Postgres, editável pelo `/admin`.
 
-Fotos de produto (`assets/products/`) foram importadas do banco aberto [Open Food Facts](https://openfoodfacts.org), casadas por marca+categoria. 140 dos 413 produtos têm foto real; o restante usa o ícone genérico — pode ser completado a qualquer momento pelo `/admin`.
+Fotos de produto são links diretos para imagens do banco aberto [Open Food Facts](https://openfoodfacts.org), casadas por marca+categoria — não baixamos/hospedamos cópia própria, o campo `imagem` é só a URL. 140 dos 413 produtos têm foto real; o restante usa o ícone genérico — pode ser preenchido a qualquer momento pelo `/admin` colando qualquer URL de imagem.
 
 ## Configurando o banco (obrigatório antes do primeiro deploy)
 
 1. No painel da Vercel → projeto → aba **Storage** → **Create Database** → **Postgres** → conectar ao projeto. Isso injeta `POSTGRES_URL` automaticamente.
-2. Na mesma aba, **Create Database** → **Blob** → conectar ao projeto. Isso injeta `BLOB_READ_WRITE_TOKEN`.
-3. Rodar a migração uma vez (localmente, apontando pro Postgres da Vercel — pegue a connection string em Storage → Postgres → `.env.local`):
+2. Rodar a migração uma vez (localmente, apontando pro Postgres da Vercel — pegue a connection string em Storage → Postgres → `.env.local`):
 
    ```bash
    npm install
@@ -88,7 +85,7 @@ Ou conecte o repositório GitHub direto no painel da Vercel (import project) —
 
 ## Painel `/admin`
 
-`https://seu-dominio.vercel.app/admin` — lista os 413 produtos com busca, edita preço unitário/caixa inline (salva ao sair do campo) e troca a foto (upload direto pro Vercel Blob). **Sem usuário/senha** — decisão deliberada, a URL não é linkada em nenhum lugar do app público. Se em algum momento isso passar a incomodar, dá pra adicionar um token simples em `api/admin/*.js` sem mexer no resto.
+`https://seu-dominio.vercel.app/admin` — lista os 413 produtos com busca, edita preço unitário/caixa e a URL da imagem inline (salva ao sair do campo). **Sem usuário/senha** — decisão deliberada, a URL não é linkada em nenhum lugar do app público. Se em algum momento isso passar a incomodar, dá pra adicionar um token simples em `api/admin/produtos.js` sem mexer no resto.
 
 ## Atualizando o catálogo
 

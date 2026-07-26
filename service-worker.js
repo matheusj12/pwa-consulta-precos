@@ -9,7 +9,7 @@
  * lives in Postgres and is served live via /api/produtos, so price/image
  * edits made in /admin show up immediately without needing a redeploy.)
  */
-const CACHE_VERSION = 'v3';
+const CACHE_VERSION = 'v4';
 const CACHE_NAME = `atacadao-cache-${CACHE_VERSION}`;
 
 const APP_SHELL = [
@@ -62,7 +62,14 @@ self.addEventListener('fetch', (event) => {
   if (request.method !== 'GET') return;
 
   const url = new URL(request.url);
-  if (url.origin !== self.location.origin) return;
+
+  // Product photos are hyperlinks to external hosts (Open Food Facts, or
+  // whatever URL an admin pastes in) — cache them opportunistically too, so
+  // once viewed they're available offline like everything else.
+  if (url.origin !== self.location.origin) {
+    event.respondWith(cacheFirst(request));
+    return;
+  }
 
   // Admin routes always hit the network directly — they're an online-only
   // internal tool and must never serve stale cached data mid-edit.
@@ -99,7 +106,11 @@ async function networkFirst(request) {
 }
 
 async function putInCache(request, response) {
-  if (!response || !response.ok) return;
+  if (!response) return;
+  // Cross-origin no-cors requests (e.g. hotlinked product photos) resolve to
+  // an "opaque" response — status is always 0/not ok, but it's still valid
+  // to cache and replay offline, so only gate same-origin responses on .ok.
+  if (response.type !== 'opaque' && !response.ok) return;
   const cache = await caches.open(CACHE_NAME);
   await cache.put(request, response.clone());
 }

@@ -71,57 +71,13 @@
     }
   }
 
-  function fileToBase64(file) {
-    return new Promise((resolve, reject) => {
-      const reader = new FileReader();
-      reader.onload = () => resolve(reader.result.split(',')[1]);
-      reader.onerror = reject;
-      reader.readAsDataURL(file);
-    });
-  }
-
-  async function handleImageUpload(file, product, thumbImg, statusEl) {
-    setStatus(statusEl, 'saving', 'Enviando imagem...');
-    try {
-      const dataBase64 = await fileToBase64(file);
-      const uploadRes = await fetch('/api/admin/upload', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ filename: file.name, contentType: file.type, dataBase64 }),
-      });
-      if (!uploadRes.ok) {
-        const body = await uploadRes.json().catch(() => ({}));
-        throw new Error(body.error || 'Erro ao enviar imagem');
-      }
-      const { url } = await uploadRes.json();
-      thumbImg.src = url;
-      await saveField(product.id, 'imagem', url, statusEl);
-    } catch (err) {
-      setStatus(statusEl, 'error', err.message);
-    }
-  }
-
   function renderRow(product) {
     const row = document.createElement('div');
     row.className = 'admin-row';
 
     const thumb = document.createElement('div');
     thumb.className = 'admin-thumb';
-    if (product.imagem) {
-      const img = document.createElement('img');
-      img.src = product.imagem;
-      img.alt = '';
-      thumb.appendChild(img);
-    } else {
-      const placeholder = document.createElement('div');
-      placeholder.className = 'admin-thumb-placeholder';
-      placeholder.textContent = 'sem foto';
-      thumb.appendChild(placeholder);
-    }
-    const fileInput = document.createElement('input');
-    fileInput.type = 'file';
-    fileInput.accept = 'image/*';
-    thumb.appendChild(fileInput);
+    renderThumb(thumb, product.imagem);
     row.appendChild(thumb);
 
     const info = document.createElement('div');
@@ -150,12 +106,43 @@
     row.appendChild(caixaField);
     row.appendChild(statusEl);
 
-    fileInput.addEventListener('change', () => {
-      const file = fileInput.files[0];
-      if (file) handleImageUpload(file, product, thumb.querySelector('img') || thumb, statusEl);
+    const imageField = createImageUrlField(product.imagem, (value) => {
+      renderThumb(thumb, value);
+      saveField(product.id, 'imagem', value, statusEl);
     });
+    row.appendChild(imageField);
 
     return row;
+  }
+
+  function renderThumb(thumb, imagem) {
+    thumb.innerHTML = '';
+    if (imagem) {
+      const img = document.createElement('img');
+      img.src = imagem;
+      img.alt = '';
+      thumb.appendChild(img);
+    } else {
+      const placeholder = document.createElement('div');
+      placeholder.className = 'admin-thumb-placeholder';
+      placeholder.textContent = 'sem foto';
+      thumb.appendChild(placeholder);
+    }
+  }
+
+  function createImageUrlField(value, onSave) {
+    const field = document.createElement('div');
+    field.className = 'admin-field admin-field-url';
+    const labelEl = document.createElement('label');
+    labelEl.textContent = 'URL da imagem';
+    const input = document.createElement('input');
+    input.type = 'url';
+    input.placeholder = 'https://...';
+    input.value = value || '';
+    input.addEventListener('change', () => onSave(input.value.trim()));
+    field.appendChild(labelEl);
+    field.appendChild(input);
+    return field;
   }
 
   function createPriceField(label, value, onSave) {

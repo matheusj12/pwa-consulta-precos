@@ -174,7 +174,7 @@
     "embalagem": "473 ML",
     "unitario": 12.0,
     "caixa": 12.0,
-    "imagem": "assets/products/energetico-monster.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/506/016/669/2483/front_en.39.400.jpg"
   },
   {
     "categoria": "Energético",
@@ -183,7 +183,7 @@
     "embalagem": "250 ML",
     "unitario": 11.0,
     "caixa": 11.0,
-    "imagem": "assets/products/energetico-red-bull.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/900/249/010/0070/front_en.245.400.jpg"
   },
   {
     "categoria": "Energético",
@@ -192,7 +192,7 @@
     "embalagem": "355 ML",
     "unitario": 14.0,
     "caixa": 14.0,
-    "imagem": "assets/products/energetico-red-bull.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/900/249/010/0070/front_en.245.400.jpg"
   },
   {
     "categoria": "Energético",
@@ -201,7 +201,7 @@
     "embalagem": "473 ML",
     "unitario": 18.0,
     "caixa": 18.0,
-    "imagem": "assets/products/energetico-red-bull.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/900/249/010/0070/front_en.245.400.jpg"
   },
   {
     "categoria": "Isotônico",
@@ -258,7 +258,7 @@
     "embalagem": "PET 12 x 200 ML",
     "unitario": 3.0,
     "caixa": 36.0,
-    "imagem": "assets/products/coca-cola.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/004/210/5220/front_en.54.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -267,7 +267,7 @@
     "embalagem": "Lata 12 x 220 ML",
     "unitario": 3.75,
     "caixa": 45.0,
-    "imagem": "assets/products/coca-cola.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/004/210/5220/front_en.54.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -276,7 +276,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.5,
     "caixa": 54.0,
-    "imagem": "assets/products/coca-cola.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/004/210/5220/front_en.54.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -285,7 +285,7 @@
     "embalagem": "12 x 600 ML",
     "unitario": 6.5,
     "caixa": 78.0,
-    "imagem": "assets/products/coca-cola.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/004/210/5220/front_en.54.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -310,7 +310,7 @@
     "embalagem": "6 x 1,5 LT",
     "unitario": 10.0,
     "caixa": 60.0,
-    "imagem": "assets/products/coca-cola.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/004/210/5220/front_en.54.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -319,7 +319,7 @@
     "embalagem": "6 x 2 LT",
     "unitario": 13.0,
     "caixa": 78.0,
-    "imagem": "assets/products/coca-cola.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/004/210/5220/front_en.54.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -336,7 +336,7 @@
     "embalagem": "PET 12 x 200 ML",
     "unitario": 3.0,
     "caixa": 36.0,
-    "imagem": "assets/products/coca-cola-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/011/265/1331/front_en.52.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -345,7 +345,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.5,
     "caixa": 54.0,
-    "imagem": "assets/products/coca-cola-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/011/265/1331/front_en.52.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -354,7 +354,7 @@
     "embalagem": "6 x 2 LT",
     "unitario": 13.0,
     "caixa": 78.0,
-    "imagem": "assets/products/coca-cola-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/011/265/1331/front_en.52.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -411,7 +411,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.5,
     "caixa": 54.0,
-    "imagem": "assets/products/guarana-antarctica.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/560/104/530/0008/front_pt.4.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -420,7 +420,7 @@
     "embalagem": "6 x 2 LT",
     "unitario": 10.0,
     "caixa": 60.0,
-    "imagem": "assets/products/guarana-antarctica.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/560/104/530/0008/front_pt.4.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -437,7 +437,7 @@
     "embalagem": "6 x 1,5 LT",
     "unitario": 7.0,
     "caixa": 42.0,
-    "imagem": "assets/products/guarana-antarctica.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/560/104/530/0008/front_pt.4.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -446,7 +446,7 @@
     "embalagem": "12 x 1,0 LT",
     "unitario": 6.0,
     "caixa": 72.0,
-    "imagem": "assets/products/guarana-antarctica.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/560/104/530/0008/front_pt.4.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -455,7 +455,7 @@
     "embalagem": "PET 12 x 200 ML",
     "unitario": 3.0,
     "caixa": 3.0,
-    "imagem": "assets/products/guarana-antarctica.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/560/104/530/0008/front_pt.4.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -472,7 +472,7 @@
     "embalagem": "6 x 1,0 LT",
     "unitario": 5.0,
     "caixa": 30.0,
-    "imagem": "assets/products/guarana-kuat.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/490/018/5003/front_pt.3.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -481,7 +481,7 @@
     "embalagem": "6 x 2,0 LT",
     "unitario": 6.5,
     "caixa": 39.0,
-    "imagem": "assets/products/guarana-kuat.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/490/018/5003/front_pt.3.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -506,7 +506,7 @@
     "embalagem": "6 x 2 LT",
     "unitario": 9.0,
     "caixa": 54.0,
-    "imagem": "assets/products/pepsi.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/594/220/400/5656/front_en.11.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -531,7 +531,7 @@
     "embalagem": "12 x 350 ML",
     "unitario": 4.5,
     "caixa": 54.0,
-    "imagem": "assets/products/sprite.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/544/900/001/5105/front_fr.4.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -540,7 +540,7 @@
     "embalagem": "6 x 2 LT",
     "unitario": 10.0,
     "caixa": 60.0,
-    "imagem": "assets/products/sprite.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/544/900/001/5105/front_fr.4.400.jpg"
   },
   {
     "categoria": "Refrigerante",
@@ -565,7 +565,7 @@
     "embalagem": "6 x 2 LT",
     "unitario": 7.0,
     "caixa": 42.0,
-    "imagem": "assets/products/sukita.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/910/8282/front_pt.14.400.jpg"
   },
   {
     "categoria": "Isotônico",
@@ -726,7 +726,7 @@
     "embalagem": "12 x 269 ML",
     "unitario": 3.75,
     "caixa": 43.0,
-    "imagem": "assets/products/cerveja-amstel.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/860/610/515/7513/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -735,7 +735,7 @@
     "embalagem": "12 x 350 ML",
     "unitario": 4.25,
     "caixa": 49.5,
-    "imagem": "assets/products/cerveja-amstel.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/860/610/515/7513/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -744,7 +744,7 @@
     "embalagem": "Lata 12 x 269 ML",
     "unitario": 4.5,
     "caixa": 53.0,
-    "imagem": "assets/products/cerveja-amstel-ultra.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/860/610/515/7513/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -753,7 +753,7 @@
     "embalagem": "Long Neck 6X275ML",
     "unitario": 6.0,
     "caixa": 36.0,
-    "imagem": "assets/products/cerveja-amstel-ultra.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/860/610/515/7513/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -762,7 +762,7 @@
     "embalagem": "12 x 350 ML",
     "unitario": 4.25,
     "caixa": 50.0,
-    "imagem": "assets/products/cerveja-antarctica.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/199/101/0153/front_pt.10.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -771,7 +771,7 @@
     "embalagem": "Latinha 15 x 269 ML",
     "unitario": 3.5,
     "caixa": 51.0,
-    "imagem": "assets/products/cerveja-antarctica.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/199/101/0153/front_pt.10.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -780,7 +780,7 @@
     "embalagem": "Profissa 23X300 ML",
     "unitario": 3.25,
     "caixa": 72.0,
-    "imagem": "assets/products/cerveja-antarctica.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/199/101/0153/front_pt.10.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -789,7 +789,7 @@
     "embalagem": "12 x 350 ML",
     "unitario": 3.25,
     "caixa": 39.0,
-    "imagem": "assets/products/cerveja-bavaria.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/871/480/002/2460/front_en.20.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -798,7 +798,7 @@
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 6.5,
     "caixa": 39.0,
-    "imagem": "assets/products/cerveja-becks.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/004/211/1719/front_de.24.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -807,7 +807,7 @@
     "embalagem": "Lata 8 x 350 ML",
     "unitario": 6.0,
     "caixa": 48.0,
-    "imagem": "assets/products/cerveja-becks.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/004/211/1719/front_de.24.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -824,7 +824,7 @@
     "embalagem": "12 x 350 ML",
     "unitario": 4.25,
     "caixa": 50.0,
-    "imagem": "assets/products/cerveja-brahma.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/901/0509/front_pt.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -833,7 +833,7 @@
     "embalagem": "15 x 269 ML",
     "unitario": 3.5,
     "caixa": 51.0,
-    "imagem": "assets/products/cerveja-brahma.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/901/0509/front_pt.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -842,7 +842,7 @@
     "embalagem": "Long Neck 6 x 355 ML",
     "unitario": 5.0,
     "caixa": 29.5,
-    "imagem": "assets/products/cerveja-brahma.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/901/0509/front_pt.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -851,7 +851,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.75,
     "caixa": 56.0,
-    "imagem": "assets/products/cerveja-brahma-duplo-malte.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/901/0509/front_pt.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -860,7 +860,7 @@
     "embalagem": "Profissa 23X300 ML",
     "unitario": 3.25,
     "caixa": 72.0,
-    "imagem": "assets/products/cerveja-brahma.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/901/0509/front_pt.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -869,7 +869,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 4.75,
     "caixa": 57.0,
-    "imagem": "assets/products/cerveja-brahma-zero-alc.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/901/0509/front_pt.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -878,7 +878,7 @@
     "embalagem": "6 x 355 ML",
     "unitario": 5.5,
     "caixa": 33.0,
-    "imagem": "assets/products/cerveja-brahma-zero-alc-l-neck.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/901/0509/front_pt.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -887,7 +887,7 @@
     "embalagem": "LN 6 x 355 ML",
     "unitario": 6.75,
     "caixa": 40.0,
-    "imagem": "assets/products/cerveja-brahma-malzebier.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/901/0509/front_pt.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -896,7 +896,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.0,
     "caixa": 59.0,
-    "imagem": "assets/products/cerveja-brahma-malzebier.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/901/0509/front_pt.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -905,7 +905,7 @@
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 7.25,
     "caixa": 43.0,
-    "imagem": "assets/products/cerveja-budweiser.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/437/902/5385/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -914,7 +914,7 @@
     "embalagem": "6 x 330 ML",
     "unitario": 6.25,
     "caixa": 37.0,
-    "imagem": "assets/products/cerveja-budweiser-l-neck-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/437/902/5385/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -923,7 +923,7 @@
     "embalagem": "8 x 350 ML",
     "unitario": 5.0,
     "caixa": 40.0,
-    "imagem": "assets/products/cerveja-budweiser-lata-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/437/902/5385/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -932,7 +932,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.0,
     "caixa": 58.0,
-    "imagem": "assets/products/cerveja-budweiser.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/437/902/5385/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -941,7 +941,7 @@
     "embalagem": "Latinha 15 x 269 ML",
     "unitario": 4.0,
     "caixa": 56.0,
-    "imagem": "assets/products/cerveja-budweiser.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/437/902/5385/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -950,7 +950,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 6.0,
     "caixa": 71.0,
-    "imagem": "assets/products/cerveja-caracu.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/921/0503/front_en.5.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -959,7 +959,7 @@
     "embalagem": "LN 6 x 330 ML",
     "unitario": 6.0,
     "caixa": 36.0,
-    "imagem": "assets/products/cerveja-caracu.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/921/0503/front_en.5.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -968,7 +968,7 @@
     "embalagem": "Long Neck 6 x 355 ML",
     "unitario": 8.5,
     "caixa": 51.0,
-    "imagem": "assets/products/cerveja-corona.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/022/832/4881/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -977,7 +977,7 @@
     "embalagem": "Long Neck 6 x 355 ML",
     "unitario": 8.5,
     "caixa": 51.0,
-    "imagem": "assets/products/cerveja-corona-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/022/832/4881/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -986,7 +986,7 @@
     "embalagem": "Lata 8X350 ML",
     "unitario": 7.0,
     "caixa": 55.0,
-    "imagem": "assets/products/cerveja-corona-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/022/832/4881/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -995,7 +995,7 @@
     "embalagem": "Lata 8 x 350 ML",
     "unitario": 7.5,
     "caixa": 59.0,
-    "imagem": "assets/products/cerveja-corona.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/022/832/4881/front_en.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1004,7 +1004,7 @@
     "embalagem": "Long Neck 6 x 210 ML",
     "unitario": 6.75,
     "caixa": 40.0,
-    "imagem": "assets/products/cerveja-coronita.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/007/503/0889/front_es.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1061,7 +1061,7 @@
     "embalagem": "",
     "unitario": 130.0,
     "caixa": 130.0,
-    "imagem": "assets/products/cerveja-heineken-barril-5-litros.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/311/978/026/8696/front_fr.68.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1070,7 +1070,7 @@
     "embalagem": "Lata 8 x 269 ML",
     "unitario": 5.0,
     "caixa": 40.0,
-    "imagem": "assets/products/cerveja-heineken.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/311/978/025/9625/front_fr.84.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1079,7 +1079,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 6.5,
     "caixa": 78.0,
-    "imagem": "assets/products/cerveja-heineken.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/311/978/025/9625/front_fr.84.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1088,7 +1088,7 @@
     "embalagem": "12 x 350 ML",
     "unitario": 6.75,
     "caixa": 80.0,
-    "imagem": "assets/products/cerveja-heineken-lata-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/311/978/025/9625/front_fr.84.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1097,7 +1097,7 @@
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 7.5,
     "caixa": 45.0,
-    "imagem": "assets/products/cerveja-heineken.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/311/978/025/9625/front_fr.84.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1106,7 +1106,7 @@
     "embalagem": "Long Neck 6 x 250 ML",
     "unitario": 6.75,
     "caixa": 40.5,
-    "imagem": "assets/products/cerveja-heineken.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/311/978/025/9625/front_fr.84.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1115,7 +1115,7 @@
     "embalagem": "",
     "unitario": 8.0,
     "caixa": 48.0,
-    "imagem": "assets/products/cerveja-heineken-long-neck-zero-6-x-330.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/594/210/500/9081/front_ro.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1124,7 +1124,7 @@
     "embalagem": "24 x 600 ML",
     "unitario": 12.0,
     "caixa": 285.0,
-    "imagem": "assets/products/cerveja-heineken-garr.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/311/978/025/9625/front_fr.84.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1173,7 +1173,7 @@
     "embalagem": "Latinha 12 x 269 ML",
     "unitario": 3.25,
     "caixa": 38.0,
-    "imagem": "assets/products/cerveja-itaipava.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/739/509/9268/front_fr.7.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1182,7 +1182,7 @@
     "embalagem": "",
     "unitario": 7.0,
     "caixa": 42.0,
-    "imagem": "assets/products/cerveja-michelob-ultra-long-neck.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/006/206/754/7270/front_fr.20.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1191,7 +1191,7 @@
     "embalagem": "Lata 8 x 350 ML",
     "unitario": 6.0,
     "caixa": 48.0,
-    "imagem": "assets/products/cerveja-michelob-ultra.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/006/206/754/7270/front_fr.20.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1200,7 +1200,7 @@
     "embalagem": "Lata 8 x 269 ML",
     "unitario": 4.0,
     "caixa": 31.0,
-    "imagem": "assets/products/cerveja-michelob-ultra.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/006/206/754/7270/front_fr.20.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1217,7 +1217,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.5,
     "caixa": 66.0,
-    "imagem": "assets/products/cerveja-original.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/401/408/609/3432/front_de.5.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1226,7 +1226,7 @@
     "embalagem": "Palito 12 x 269 ML",
     "unitario": 4.25,
     "caixa": 62.0,
-    "imagem": "assets/products/cerveja-original.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/401/408/609/3432/front_de.5.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1235,7 +1235,7 @@
     "embalagem": "Profissa 23 x 300 ML",
     "unitario": 3.75,
     "caixa": 84.0,
-    "imagem": "assets/products/cerveja-original.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/401/408/609/3432/front_de.5.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1284,7 +1284,7 @@
     "embalagem": "12 x 350 ML",
     "unitario": 4.0,
     "caixa": 48.0,
-    "imagem": "assets/products/cerveja-skol.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/920/0504/front_pt.16.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1293,7 +1293,7 @@
     "embalagem": "Latinha 15 x 269 ML",
     "unitario": 3.5,
     "caixa": 51.0,
-    "imagem": "assets/products/cerveja-skol.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/920/0504/front_pt.16.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1302,7 +1302,7 @@
     "embalagem": "Profissa 23X300 ML",
     "unitario": 3.25,
     "caixa": 72.0,
-    "imagem": "assets/products/cerveja-skol.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/114/920/0504/front_pt.16.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1311,7 +1311,7 @@
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 6.5,
     "caixa": 39.0,
-    "imagem": "assets/products/cerveja-sol-premium.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/007/500/1629/front_fr.31.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1320,7 +1320,7 @@
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 6.5,
     "caixa": 39.0,
-    "imagem": "assets/products/cerveja-sol-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/007/500/1629/front_fr.31.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1329,7 +1329,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.25,
     "caixa": 63.0,
-    "imagem": "assets/products/cerveja-sol-sem-gluten.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/007/500/1629/front_fr.31.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1338,7 +1338,7 @@
     "embalagem": "Lata 12 x 350 ML",
     "unitario": 5.75,
     "caixa": 68.0,
-    "imagem": "assets/products/cerveja-spaten.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/407/270/000/6527/front_de.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1347,7 +1347,7 @@
     "embalagem": "Lata 8 x 269 ML",
     "unitario": 4.0,
     "caixa": 31.0,
-    "imagem": "assets/products/cerveja-spaten.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/407/270/000/6527/front_de.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1356,7 +1356,7 @@
     "embalagem": "Long Neck 6 x 350 ML",
     "unitario": 7.0,
     "caixa": 42.0,
-    "imagem": "assets/products/cerveja-spaten.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/407/270/000/6527/front_de.3.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1365,7 +1365,7 @@
     "embalagem": "6 x 330 ML",
     "unitario": 7.5,
     "caixa": 45.0,
-    "imagem": "assets/products/cerveja-stella-artois.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/022/814/1303/front_en.19.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1374,7 +1374,7 @@
     "embalagem": "8 x 269 ML",
     "unitario": 4.5,
     "caixa": 35.0,
-    "imagem": "assets/products/cerveja-stella-artois.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/022/814/1303/front_en.19.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1383,7 +1383,7 @@
     "embalagem": "Lata 8 x 355 ML",
     "unitario": 6.0,
     "caixa": 48.0,
-    "imagem": "assets/products/cerveja-stella-artois.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/022/814/1303/front_en.19.400.jpg"
   },
   {
     "categoria": "Cerveja",
@@ -1416,7 +1416,7 @@
     "embalagem": "Long Neck 6 x 330 ML",
     "unitario": 8.5,
     "caixa": 51.0,
-    "imagem": "assets/products/cerveja-1906.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/841/259/800/4933/front_es.24.400.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1441,7 +1441,7 @@
     "embalagem": "",
     "unitario": 18.0,
     "caixa": 18.0,
-    "imagem": "assets/products/aguardente-pirassununga-51.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/600/210/0441/front_fr.10.400.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1450,7 +1450,7 @@
     "embalagem": "",
     "unitario": 16.0,
     "caixa": 16.0,
-    "imagem": "assets/products/aguardente-velho-barreiro.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/605/020/0124/front_en.4.400.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1475,7 +1475,7 @@
     "embalagem": "750 ML",
     "unitario": 140.0,
     "caixa": 140.0,
-    "imagem": "assets/products/amarula.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/600/149/506/2669/front_en.18.400.jpg"
   },
   {
     "categoria": "Licor / Aperitivo",
@@ -1484,7 +1484,7 @@
     "embalagem": "375 ML",
     "unitario": 81.0,
     "caixa": 81.0,
-    "imagem": "assets/products/amarula.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/600/149/506/2669/front_en.18.400.jpg"
   },
   {
     "categoria": "Licor / Aperitivo",
@@ -1493,7 +1493,7 @@
     "embalagem": "",
     "unitario": 65.0,
     "caixa": 65.0,
-    "imagem": "assets/products/aperol.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/800/223/035/0285/front_fr.29.400.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1526,7 +1526,7 @@
     "embalagem": "748 ML",
     "unitario": 65.0,
     "caixa": 65.0,
-    "imagem": "assets/products/campari.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/800/004/000/1106/front_en.12.400.jpg"
   },
   {
     "categoria": "Licor / Aperitivo",
@@ -1535,7 +1535,7 @@
     "embalagem": "1 LT",
     "unitario": 76.0,
     "caixa": 76.0,
-    "imagem": "assets/products/campari.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/800/004/000/1106/front_en.12.400.jpg"
   },
   {
     "categoria": "Aguardente / Destilados",
@@ -1608,7 +1608,7 @@
     "embalagem": "750 ML",
     "unitario": 115.0,
     "caixa": 115.0,
-    "imagem": "assets/products/gin-beefeater-london-dry.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/029/961/8240/front_en.5.400.jpg"
   },
   {
     "categoria": "Gin",
@@ -1617,7 +1617,7 @@
     "embalagem": "750 ML",
     "unitario": 110.0,
     "caixa": 110.0,
-    "imagem": "assets/products/gin-bonbay.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/067/771/4006/front_en.69.400.jpg"
   },
   {
     "categoria": "Gin",
@@ -1626,7 +1626,7 @@
     "embalagem": "750 ML",
     "unitario": 135.0,
     "caixa": 135.0,
-    "imagem": "assets/products/gin-tanqueray-london-dry.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/028/101/5248/front_en.25.400.jpg"
   },
   {
     "categoria": "Gin",
@@ -1635,7 +1635,7 @@
     "embalagem": "275 ML",
     "unitario": 22.0,
     "caixa": 22.0,
-    "imagem": "assets/products/gin-tanqueray-tonic.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/028/101/5248/front_en.25.400.jpg"
   },
   {
     "categoria": "Gin",
@@ -1820,7 +1820,7 @@
     "embalagem": "",
     "unitario": 180.0,
     "caixa": 180.0,
-    "imagem": "assets/products/licor-43.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/400/767/543/7601/front_de.3.400.jpg"
   },
   {
     "categoria": "Licor / Aperitivo",
@@ -1853,7 +1853,7 @@
     "embalagem": "1 LT",
     "unitario": 40.0,
     "caixa": 40.0,
-    "imagem": "assets/products/rum-bacardi-big-apple.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/067/701/2270/front_en.5.400.jpg"
   },
   {
     "categoria": "Rum",
@@ -1862,7 +1862,7 @@
     "embalagem": "980 ML",
     "unitario": 48.0,
     "caixa": 48.0,
-    "imagem": "assets/products/rum-bacardi-carta-blanca.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/067/701/2850/front_it.9.400.jpg"
   },
   {
     "categoria": "Rum",
@@ -1871,7 +1871,7 @@
     "embalagem": "980 ML",
     "unitario": 53.0,
     "caixa": 53.0,
-    "imagem": "assets/products/rum-bacardi-carta-ouro.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/067/701/2850/front_it.9.400.jpg"
   },
   {
     "categoria": "Rum",
@@ -1912,7 +1912,7 @@
     "embalagem": "750 ML",
     "unitario": 135.0,
     "caixa": 135.0,
-    "imagem": "assets/products/tequila-jose-cuervo-branca.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/750/103/501/1434/front_it.3.400.jpg"
   },
   {
     "categoria": "Tequila",
@@ -1921,7 +1921,7 @@
     "embalagem": "750 ML",
     "unitario": 135.0,
     "caixa": 135.0,
-    "imagem": "assets/products/tequila-jose-cuervo-especial-ouro.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/750/103/501/1434/front_it.3.400.jpg"
   },
   {
     "categoria": "Tequila",
@@ -1946,7 +1946,7 @@
     "embalagem": "",
     "unitario": 115.0,
     "caixa": 115.0,
-    "imagem": "assets/products/vodka-absolut.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/731/204/001/7683/front_en.31.400.jpg"
   },
   {
     "categoria": "Vodka",
@@ -1955,7 +1955,7 @@
     "embalagem": "",
     "unitario": 190.0,
     "caixa": 190.0,
-    "imagem": "assets/products/vodka-ciroc-red-berry-vermelha.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/010/393/8389/front_fr.10.400.jpg"
   },
   {
     "categoria": "Vodka",
@@ -1964,7 +1964,7 @@
     "embalagem": "",
     "unitario": 190.0,
     "caixa": 190.0,
-    "imagem": "assets/products/vodka-ciroc-snap-frost-azul.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/010/393/8389/front_fr.10.400.jpg"
   },
   {
     "categoria": "Vodka",
@@ -2029,7 +2029,7 @@
     "embalagem": "1 LT",
     "unitario": 45.0,
     "caixa": 45.0,
-    "imagem": "assets/products/vodka-smirnoff.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/031/694/7022/front_fr.4.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2054,7 +2054,7 @@
     "embalagem": "1 LT",
     "unitario": 105.0,
     "caixa": 105.0,
-    "imagem": "assets/products/whisky-ballantines-finest.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/000/000/1109/front_fr.9.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2063,7 +2063,7 @@
     "embalagem": "0,750 LT",
     "unitario": 75.0,
     "caixa": 75.0,
-    "imagem": "assets/products/whisky-ballantines-finest.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/000/000/000/1109/front_fr.9.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2104,7 +2104,7 @@
     "embalagem": "750 ML",
     "unitario": 130.0,
     "caixa": 130.0,
-    "imagem": "assets/products/whisky-chivas-regal-12-years.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/029/960/1143/front_fr.5.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2113,7 +2113,7 @@
     "embalagem": "1 LT",
     "unitario": 170.0,
     "caixa": 170.0,
-    "imagem": "assets/products/whisky-chivas-regal-12-years.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/029/960/1143/front_fr.5.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2122,7 +2122,7 @@
     "embalagem": "1 LT",
     "unitario": 72.0,
     "caixa": 72.0,
-    "imagem": "assets/products/whisky-grants.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/501/032/725/3749/front_fr.4.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2131,7 +2131,7 @@
     "embalagem": "1 LT",
     "unitario": 120.0,
     "caixa": 120.0,
-    "imagem": "assets/products/whisky-j-walker-red.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/026/701/4609/front_es.10.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2140,7 +2140,7 @@
     "embalagem": "750 ML",
     "unitario": 90.0,
     "caixa": 90.0,
-    "imagem": "assets/products/whisky-j-walker-red.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/026/701/4609/front_es.10.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2149,7 +2149,7 @@
     "embalagem": "1 LT",
     "unitario": 225.0,
     "caixa": 225.0,
-    "imagem": "assets/products/whisky-j-walker-black.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/026/711/6426/front_fr.8.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2158,7 +2158,7 @@
     "embalagem": "375 ML",
     "unitario": 62.0,
     "caixa": 62.0,
-    "imagem": "assets/products/whisky-jack-daniels.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/509/987/304/6067/front_en.12.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2167,7 +2167,7 @@
     "embalagem": "1 LT",
     "unitario": 170.0,
     "caixa": 170.0,
-    "imagem": "assets/products/whisky-jack-daniels-jack-daniels-noney.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/509/987/304/6067/front_en.12.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2176,7 +2176,7 @@
     "embalagem": "1 LT",
     "unitario": 160.0,
     "caixa": 160.0,
-    "imagem": "assets/products/whisky-jack-daniels-fire.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/509/987/304/6067/front_en.12.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2225,7 +2225,7 @@
     "embalagem": "1 LT",
     "unitario": 100.0,
     "caixa": 100.0,
-    "imagem": "assets/products/whisky-white-horse-8-years.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/500/026/500/1199/front_fr.9.400.jpg"
   },
   {
     "categoria": "Whisky",
@@ -2234,7 +2234,7 @@
     "embalagem": "269 ML",
     "unitario": 12.0,
     "caixa": 12.0,
-    "imagem": "assets/products/whisky-jack-daniels-com-coca-cola.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/509/987/304/6067/front_en.12.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2339,7 +2339,7 @@
     "embalagem": "600 ML",
     "unitario": 17.0,
     "caixa": 17.0,
-    "imagem": "assets/products/cerveja-colorado-appia.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/860/525/3852/front_pt.3.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2348,7 +2348,7 @@
     "embalagem": "600 ML",
     "unitario": 17.0,
     "caixa": 17.0,
-    "imagem": "assets/products/cerveja-colorado-caium.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/860/525/3852/front_pt.3.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2357,7 +2357,7 @@
     "embalagem": "600 ML",
     "unitario": 17.0,
     "caixa": 17.0,
-    "imagem": "assets/products/cerveja-colorado-demoiselle.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/860/525/3852/front_pt.3.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2366,7 +2366,7 @@
     "embalagem": "600 ML",
     "unitario": 17.0,
     "caixa": 17.0,
-    "imagem": "assets/products/cerveja-colorado-indica.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/860/525/3852/front_pt.3.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2375,7 +2375,7 @@
     "embalagem": "600 ML",
     "unitario": 17.0,
     "caixa": 17.0,
-    "imagem": "assets/products/cerveja-colorado-ribeirao.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/860/525/3852/front_pt.3.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2384,7 +2384,7 @@
     "embalagem": "350 ML",
     "unitario": 8.0,
     "caixa": 8.0,
-    "imagem": "assets/products/cerveja-colorado-ribeirao-long.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/860/525/3852/front_pt.3.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2481,7 +2481,7 @@
     "embalagem": "Lata 350 ML",
     "unitario": 6.0,
     "caixa": 70.0,
-    "imagem": "assets/products/cerveja-estrela-galicia.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/841/259/800/1758/front_es.3.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2490,7 +2490,7 @@
     "embalagem": "Long Neck 6X355 ML",
     "unitario": 8.25,
     "caixa": 49.0,
-    "imagem": "assets/products/cerveja-estrela-galicia.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/841/259/800/1758/front_es.3.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2499,7 +2499,7 @@
     "embalagem": "Lata 330 ML",
     "unitario": 6.0,
     "caixa": 36.0,
-    "imagem": "assets/products/cerveja-estrela-galicia-zero.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/841/259/800/1758/front_es.3.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2508,7 +2508,7 @@
     "embalagem": "Long Neck 330 ML",
     "unitario": 10.0,
     "caixa": 10.0,
-    "imagem": "assets/products/cerveja-goose-iland-midway.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/073/692/011/1310/front_fr.53.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2533,7 +2533,7 @@
     "embalagem": "Long Neck 330 ML",
     "unitario": 8.5,
     "caixa": 8.5,
-    "imagem": "assets/products/cerveja-hougaarden.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/022/820/5876/front_fr.4.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2542,7 +2542,7 @@
     "embalagem": "Lata 269 ML",
     "unitario": 5.25,
     "caixa": 5.25,
-    "imagem": "assets/products/cerveja-hougaarden.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/541/022/820/5876/front_fr.4.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2679,7 +2679,7 @@
     "embalagem": "250 ML",
     "unitario": 8.5,
     "caixa": 8.5,
-    "imagem": "assets/products/cerveja-super-bock.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/560/116/411/4203/front_fr.12.400.jpg"
   },
   {
     "categoria": "Cerveja Especial",
@@ -2848,7 +2848,7 @@
     "embalagem": "",
     "unitario": 10.0,
     "caixa": 10.0,
-    "imagem": "assets/products/kinder-ovo.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/789/802/439/5867/front_pt.10.400.jpg"
   },
   {
     "categoria": "Gelo",
@@ -3105,7 +3105,7 @@
     "embalagem": "",
     "unitario": 60.0,
     "caixa": 60.0,
-    "imagem": "assets/products/vinho-argentino-trivento.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/779/803/959/0625/front_ru.5.400.jpg"
   },
   {
     "categoria": "Vinho",
@@ -3122,7 +3122,7 @@
     "embalagem": "",
     "unitario": 55.0,
     "caixa": 55.0,
-    "imagem": "assets/products/vinho-chileno-casillero-del-diablo.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/780/432/098/5633/front_en.3.400.jpg"
   },
   {
     "categoria": "Vinho",
@@ -3155,7 +3155,7 @@
     "embalagem": "",
     "unitario": 40.0,
     "caixa": 40.0,
-    "imagem": "assets/products/vinho-chileno-gato-negro.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/780/430/012/0726/front_fr.6.400.jpg"
   },
   {
     "categoria": "Vinho",
@@ -3164,7 +3164,7 @@
     "embalagem": "",
     "unitario": 34.0,
     "caixa": 34.0,
-    "imagem": "assets/products/vinho-chileno-santa-carolina.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/081/394/201/0118/front_en.3.400.jpg"
   },
   {
     "categoria": "Vinho",
@@ -3301,7 +3301,7 @@
     "embalagem": "750 ML",
     "unitario": 70.0,
     "caixa": 70.0,
-    "imagem": "assets/products/vinho-portugues-mateus-rose.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/560/101/200/1150/front_fr.3.400.jpg"
   },
   {
     "categoria": "Vinho",
@@ -3374,7 +3374,7 @@
     "embalagem": "15g",
     "unitario": 2.0,
     "caixa": 2.0,
-    "imagem": "assets/products/finni.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/841/052/514/6435/front_en.8.400.jpg"
   },
   {
     "categoria": "Doces",
@@ -3383,7 +3383,7 @@
     "embalagem": "27g",
     "unitario": 3.0,
     "caixa": 3.0,
-    "imagem": "assets/products/finni.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/841/052/514/6435/front_en.8.400.jpg"
   },
   {
     "categoria": "Doces",
@@ -3392,7 +3392,7 @@
     "embalagem": "35g",
     "unitario": 3.5,
     "caixa": 3.5,
-    "imagem": "assets/products/finni.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/841/052/514/6435/front_en.8.400.jpg"
   },
   {
     "categoria": "Doces",
@@ -3401,7 +3401,7 @@
     "embalagem": "40g",
     "unitario": 4.5,
     "caixa": 4.5,
-    "imagem": "assets/products/finni.jpg"
+    "imagem": "https://images.openfoodfacts.net/images/products/841/052/514/6435/front_en.8.400.jpg"
   },
   {
     "categoria": "Salgados",
