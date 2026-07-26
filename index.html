@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>ATACADÃO · Consulta de Preços</title>
+  <meta name="description" content="Consulta rápida de preços de bebidas da Distribuidora ATACADÃO — funciona 100% offline." />
+  <meta name="theme-color" content="#0a0a0b" />
+
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="assets/favicon.png" />
+  <link rel="apple-touch-icon" href="assets/icon-192.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Atacadão" />
+
+  <link rel="preload" href="data/produtos.json" as="fetch" crossorigin="anonymous" />
+  <link rel="preload" href="assets/logo.png" as="image" />
+
+  <link rel="stylesheet" href="css/reset.css" />
+  <link rel="stylesheet" href="css/variables.css" />
+  <link rel="stylesheet" href="css/app.css" />
+  <link rel="stylesheet" href="css/animations.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
+</head>
+<body>
+  <div id="splash-screen" class="splash-screen" role="status" aria-live="polite">
+    <div class="splash-content">
+      <div class="splash-badge">
+        <div class="splash-ring"></div>
+        <img class="splash-logo" src="assets/logo.png" alt="" width="96" height="96" />
+      </div>
+      <p class="splash-text">Carregando catálogo...</p>
+      <div class="splash-progress"></div>
+    </div>
+  </div>
+
+  <div class="app-shell">
+    <header class="app-header">
+      <div class="header-inner">
+        <div class="brand">
+          <img class="brand-logo" src="assets/logo.png" alt="Logo Atacadão" width="42" height="42" />
+          <div class="brand-text">
+            <div class="brand-name">ATACADÃO</div>
+            <div class="brand-subtitle">Consulta de Preços</div>
+          </div>
+        </div>
+        <button id="favorites-toggle" class="icon-btn" type="button" aria-label="Mostrar apenas favoritos" aria-pressed="false">
+          <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <div class="search-wrap">
+      <div class="search-bar">
+        <svg class="search-icon" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="7"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input
+          id="search-input"
+          class="search-input"
+          type="text"
+          inputmode="search"
+          autocomplete="off"
+          autocorrect="off"
+          autocapitalize="off"
+          spellcheck="false"
+          placeholder="Buscar por nome, categoria, marca ou embalagem..."
+          aria-label="Buscar produto"
+        />
+        <button id="search-clear" class="search-clear" type="button" aria-label="Limpar busca">
+          <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <div id="history-row" class="chip-row" style="display: none"></div>
+    <div id="category-row" class="chip-row"></div>
+
+    <main class="results">
+      <p id="result-count" class="result-count"></p>
+      <div id="category-groups"></div>
+      <div id="empty-state" class="empty-state">
+        <p>Nenhum produto encontrado. Tente outro termo.</p>
+      </div>
+    </main>
+  </div>
+
+  <div id="update-toast" class="update-toast">
+    <div class="update-toast-text">
+      <strong>Novo catálogo disponível.</strong>
+      Atualizar agora para ver os preços mais recentes.
+    </div>
+    <button id="update-toast-btn" class="update-toast-btn" type="button">Atualizar</button>
+    <button id="update-toast-close" class="update-toast-close" type="button" aria-label="Fechar">
+      <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="18" y1="6" x2="6" y2="18"></line>
+        <line x1="6" y1="6" x2="18" y2="18"></line>
+      </svg>
+    </button>
+  </div>
+
+  <script src="js/utils.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/service.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

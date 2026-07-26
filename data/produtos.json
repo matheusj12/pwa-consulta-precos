@@ -1,0 +1,3306 @@
+[
+  {
+    "categoria": "Achocolatado",
+    "marca": "",
+    "nome": "Achocolatado Todinho",
+    "embalagem": "200 ML",
+    "unitario": 3.5,
+    "caixa": 3.5
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua Sem Gas 500 ML",
+    "embalagem": "12 x 500 ML",
+    "unitario": 2.5,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua Com Gas 500 ML",
+    "embalagem": "12 x 500 ML",
+    "unitario": 3.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua Com Gas Lebrinha Premiun",
+    "embalagem": "12X 50 ML",
+    "unitario": 3.5,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua Sem Gas 1,5 LT",
+    "embalagem": "6 x 1,5 LT",
+    "unitario": 5.0,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua Com Gas 1,5 LT",
+    "embalagem": "6 x 1,5 LT",
+    "unitario": 6.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua Com Gas",
+    "embalagem": "Lata 350 ML",
+    "unitario": 3.5,
+    "caixa": 3.5
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua Saborizada Fizzo",
+    "embalagem": "",
+    "unitario": 6.5,
+    "caixa": 6.5
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua De Coco 1 LT",
+    "embalagem": "12 x 1 LT",
+    "unitario": 13.0,
+    "caixa": 156.0
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua De Coco",
+    "embalagem": "200 ML",
+    "unitario": 3.0,
+    "caixa": 3.0
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua De Coco Aqua Coco",
+    "embalagem": "1 LT",
+    "unitario": 16.0,
+    "caixa": 16.0
+  },
+  {
+    "categoria": "Água",
+    "marca": "",
+    "nome": "Agua De Coco Tropical",
+    "embalagem": "300 ML",
+    "unitario": 6.0,
+    "caixa": 6.0
+  },
+  {
+    "categoria": "Água Tônica",
+    "marca": "",
+    "nome": "Agua Tonica Antarctica",
+    "embalagem": "12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Água Tônica",
+    "marca": "",
+    "nome": "Agua Tonica Antarctica 1 Litro",
+    "embalagem": "",
+    "unitario": 9.0,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Água Tônica",
+    "marca": "",
+    "nome": "Agua Tonica ST Pierre",
+    "embalagem": "270 ML",
+    "unitario": 7.0,
+    "caixa": 7.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Baly",
+    "embalagem": "2 LT",
+    "unitario": 15.0,
+    "caixa": 15.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Extra Power",
+    "embalagem": "1 LT",
+    "unitario": 12.0,
+    "caixa": 12.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Extra Power",
+    "embalagem": "1,250 LT",
+    "unitario": 13.0,
+    "caixa": 13.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Extra Power",
+    "embalagem": "2 LT",
+    "unitario": 16.0,
+    "caixa": 16.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Extra Power",
+    "embalagem": "270 ML",
+    "unitario": 6.0,
+    "caixa": 6.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Extra Power",
+    "embalagem": "473 ML",
+    "unitario": 8.0,
+    "caixa": 8.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Monster",
+    "embalagem": "473 ML",
+    "unitario": 12.0,
+    "caixa": 12.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Red Bull",
+    "embalagem": "250 ML",
+    "unitario": 11.0,
+    "caixa": 11.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Red Bull",
+    "embalagem": "355 ML",
+    "unitario": 14.0,
+    "caixa": 14.0
+  },
+  {
+    "categoria": "Energético",
+    "marca": "",
+    "nome": "Energetico Red Bull",
+    "embalagem": "473 ML",
+    "unitario": 18.0,
+    "caixa": 18.0
+  },
+  {
+    "categoria": "Isotônico",
+    "marca": "",
+    "nome": "Gatorade",
+    "embalagem": "6 x 500 ML",
+    "unitario": 7.5,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Isotônico",
+    "marca": "",
+    "nome": "Gatorade",
+    "embalagem": "12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Isotônico",
+    "marca": "",
+    "nome": "H2o Limao E Limoneto",
+    "embalagem": "12 x 500 ML",
+    "unitario": 6.0,
+    "caixa": 72.0
+  },
+  {
+    "categoria": "Isotônico",
+    "marca": "",
+    "nome": "H2o Limao E Limoneto",
+    "embalagem": "6 x 1,5 LT",
+    "unitario": 9.5,
+    "caixa": 57.0
+  },
+  {
+    "categoria": "Isotônico",
+    "marca": "",
+    "nome": "H2o Limao E Limoneto",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 4.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Isotônico",
+    "marca": "",
+    "nome": "Power Ade",
+    "embalagem": "6 x 500 ML",
+    "unitario": 7.5,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola",
+    "embalagem": "PET 12 x 200 ML",
+    "unitario": 3.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola",
+    "embalagem": "Lata 12 x 220 ML",
+    "unitario": 3.75,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola",
+    "embalagem": "12 x 600 ML",
+    "unitario": 6.5,
+    "caixa": 78.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola 1 Litro (Vidro)",
+    "embalagem": "",
+    "unitario": 7.0,
+    "caixa": 84.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola 1 Litro Descartavel",
+    "embalagem": "",
+    "unitario": 9.0,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola",
+    "embalagem": "6 x 1,5 LT",
+    "unitario": 10.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola",
+    "embalagem": "6 x 2 LT",
+    "unitario": 13.0,
+    "caixa": 78.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola 6 x 2 LT Retornavel",
+    "embalagem": "",
+    "unitario": 10.0,
+    "caixa": 120.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola Zero",
+    "embalagem": "PET 12 x 200 ML",
+    "unitario": 3.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola Zero",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Coca Cola Zero",
+    "embalagem": "6 x 2 LT",
+    "unitario": 13.0,
+    "caixa": 78.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Fanta Laranja",
+    "embalagem": "12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Fanta Laranja",
+    "embalagem": "12 x 600 ML",
+    "unitario": 6.0,
+    "caixa": 72.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Fanta Laranja",
+    "embalagem": "6 x 2 LT",
+    "unitario": 10.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Fanta Laranja",
+    "embalagem": "6 x 1 LT",
+    "unitario": 6.25,
+    "caixa": 37.5
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Fanta Uva",
+    "embalagem": "12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Fanta Uva",
+    "embalagem": "6 x 2 LT",
+    "unitario": 10.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Guarana Antarctica",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Guarana Antarctica",
+    "embalagem": "6 x 2 LT",
+    "unitario": 10.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Guarana Ant Diet",
+    "embalagem": "6 x 2 LT",
+    "unitario": 10.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Guarana Antarctica",
+    "embalagem": "6 x 1,5 LT",
+    "unitario": 7.0,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Guarana Antarctica",
+    "embalagem": "12 x 1,0 LT",
+    "unitario": 6.0,
+    "caixa": 72.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Guaraná Antarctica",
+    "embalagem": "PET 12 x 200 ML",
+    "unitario": 3.0,
+    "caixa": 3.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Guarana Jesus",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Guarana Kuat",
+    "embalagem": "6 x 1,0 LT",
+    "unitario": 5.0,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Guarana Kuat",
+    "embalagem": "6 x 2,0 LT",
+    "unitario": 6.5,
+    "caixa": 39.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Jaó Todos",
+    "embalagem": "6 x 2 LT",
+    "unitario": 6.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Mineiro Guarana",
+    "embalagem": "6 x 2 LT",
+    "unitario": 9.0,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Pepsi",
+    "embalagem": "6 x 2 LT",
+    "unitario": 9.0,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Pepsi Black",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Soda Limonada",
+    "embalagem": "6 x 2 LT",
+    "unitario": 8.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Sprite",
+    "embalagem": "12 x 350 ML",
+    "unitario": 4.5,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Sprite",
+    "embalagem": "6 x 2 LT",
+    "unitario": 10.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Sprite Fresh",
+    "embalagem": "12 x 500 ML",
+    "unitario": 6.0,
+    "caixa": 72.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Sprite Fresh",
+    "embalagem": "6 x 1,5 LT",
+    "unitario": 10.5,
+    "caixa": 63.0
+  },
+  {
+    "categoria": "Refrigerante",
+    "marca": "",
+    "nome": "Sukita",
+    "embalagem": "6 x 2 LT",
+    "unitario": 7.0,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Isotônico",
+    "marca": "",
+    "nome": "Schweppes Citrus",
+    "embalagem": "6 x 1,5 LT",
+    "unitario": 11.0,
+    "caixa": 66.0
+  },
+  {
+    "categoria": "Isotônico",
+    "marca": "",
+    "nome": "Schweppes Citrus Lata",
+    "embalagem": "",
+    "unitario": 5.0,
+    "caixa": 5.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco La Fruit Caixinha",
+    "embalagem": "27 x 200 ML",
+    "unitario": 2.5,
+    "caixa": 67.5
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco La Fruit Litro",
+    "embalagem": "8 x 1 LT",
+    "unitario": 7.5,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Del Vale",
+    "embalagem": "PET 12 x 200 ML",
+    "unitario": 2.5,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Del Vale",
+    "embalagem": "PET 6 x 1,5 LT",
+    "unitario": 7.5,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Del Vale Kapo",
+    "embalagem": "12 x 200 ML",
+    "unitario": 3.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Del Vale",
+    "embalagem": "Lata 6 x 290 ML",
+    "unitario": 5.0,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Tampico Laranja",
+    "embalagem": "6 x 2 LT",
+    "unitario": 10.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco De Uva Integral ( Vidro )",
+    "embalagem": "1,5 LT",
+    "unitario": 25.0,
+    "caixa": 25.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco De Uva Integral ( Papelao )",
+    "embalagem": "1,5 LT",
+    "unitario": 23.0,
+    "caixa": 23.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Prats Laranja",
+    "embalagem": "300 ML",
+    "unitario": 7.25,
+    "caixa": 7.25
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Prats Laranja",
+    "embalagem": "900 ML",
+    "unitario": 18.0,
+    "caixa": 18.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Prats Laranja",
+    "embalagem": "1,500 ML",
+    "unitario": 25.0,
+    "caixa": 25.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Prats Laranja",
+    "embalagem": "1,700 ML",
+    "unitario": 30.0,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Prats Uva / Acerola",
+    "embalagem": "900 ML",
+    "unitario": 20.0,
+    "caixa": 20.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Prats Uva / Acerola",
+    "embalagem": "300 ML",
+    "unitario": 8.0,
+    "caixa": 8.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Prats Goiaba",
+    "embalagem": "900 ML",
+    "unitario": 15.0,
+    "caixa": 15.0
+  },
+  {
+    "categoria": "Suco",
+    "marca": "",
+    "nome": "Suco Prats Limonada",
+    "embalagem": "900 ML",
+    "unitario": 11.0,
+    "caixa": 11.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Amstel",
+    "nome": "Cerveja Amstel",
+    "embalagem": "12 x 269 ML",
+    "unitario": 3.75,
+    "caixa": 43.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Amstel",
+    "nome": "Cerveja Amstel",
+    "embalagem": "12 x 350 ML",
+    "unitario": 4.25,
+    "caixa": 49.5
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Amstel",
+    "nome": "Cerveja Amstel Ultra",
+    "embalagem": "Lata 12 x 269 ML",
+    "unitario": 4.5,
+    "caixa": 53.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Amstel",
+    "nome": "Cerveja Amstel Ultra",
+    "embalagem": "Long Neck 6X275ML",
+    "unitario": 6.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Antarctica",
+    "nome": "Cerveja Antarctica",
+    "embalagem": "12 x 350 ML",
+    "unitario": 4.25,
+    "caixa": 50.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Antarctica",
+    "nome": "Cerveja Antarctica",
+    "embalagem": "Latinha 15 x 269 ML",
+    "unitario": 3.5,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Antarctica",
+    "nome": "Cerveja Antarctica",
+    "embalagem": "Profissa 23X300 ML",
+    "unitario": 3.25,
+    "caixa": 72.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Bavaria",
+    "nome": "Cerveja Bavaria",
+    "embalagem": "12 x 350 ML",
+    "unitario": 3.25,
+    "caixa": 39.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Becks",
+    "nome": "Cerveja Becks",
+    "embalagem": "Long Neck 6 x 330 ML",
+    "unitario": 6.5,
+    "caixa": 39.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Becks",
+    "nome": "Cerveja Becks",
+    "embalagem": "Lata 8 x 350 ML",
+    "unitario": 6.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Bohemia",
+    "nome": "Cerveja Bohemia",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 4.75,
+    "caixa": 56.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Brahma",
+    "nome": "Cerveja Brahma",
+    "embalagem": "12 x 350 ML",
+    "unitario": 4.25,
+    "caixa": 50.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Brahma",
+    "nome": "Cerveja Brahma",
+    "embalagem": "15 x 269 ML",
+    "unitario": 3.5,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Brahma",
+    "nome": "Cerveja Brahma",
+    "embalagem": "Long Neck 6 x 355 ML",
+    "unitario": 5.0,
+    "caixa": 29.5
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Brahma",
+    "nome": "Cerveja Brahma Duplo Malte",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 4.75,
+    "caixa": 56.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Brahma",
+    "nome": "Cerveja Brahma",
+    "embalagem": "Profissa 23X300 ML",
+    "unitario": 3.25,
+    "caixa": 72.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Brahma",
+    "nome": "Cerveja Brahma Zero Alc",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 4.75,
+    "caixa": 57.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Brahma",
+    "nome": "Cerveja Brahma Zero Alc L Neck",
+    "embalagem": "6 x 355 ML",
+    "unitario": 5.5,
+    "caixa": 33.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Brahma",
+    "nome": "Cerveja Brahma Malzebier",
+    "embalagem": "LN 6 x 355 ML",
+    "unitario": 6.75,
+    "caixa": 40.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Brahma",
+    "nome": "Cerveja Brahma Malzebier",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 5.0,
+    "caixa": 59.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Budweiser",
+    "nome": "Cerveja Budweiser",
+    "embalagem": "Long Neck 6 x 330 ML",
+    "unitario": 7.25,
+    "caixa": 43.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Budweiser",
+    "nome": "Cerveja Budweiser L Neck Zero",
+    "embalagem": "6 x 330 ML",
+    "unitario": 6.25,
+    "caixa": 37.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Budweiser",
+    "nome": "Cerveja Budweiser Lata Zero",
+    "embalagem": "8 x 350 ML",
+    "unitario": 5.0,
+    "caixa": 40.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Budweiser",
+    "nome": "Cerveja Budweiser",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 5.0,
+    "caixa": 58.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Budweiser",
+    "nome": "Cerveja Budweiser",
+    "embalagem": "Latinha 15 x 269 ML",
+    "unitario": 4.0,
+    "caixa": 56.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Caracu",
+    "nome": "Cerveja Caracu",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 6.0,
+    "caixa": 71.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Caracu",
+    "nome": "Cerveja Caracu",
+    "embalagem": "LN 6 x 330 ML",
+    "unitario": 6.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Corona",
+    "nome": "Cerveja Corona",
+    "embalagem": "Long Neck 6 x 355 ML",
+    "unitario": 8.5,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Corona",
+    "nome": "Cerveja Corona Zero",
+    "embalagem": "Long Neck 6 x 355 ML",
+    "unitario": 8.5,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Corona",
+    "nome": "Cerveja Corona Zero",
+    "embalagem": "Lata 8X350 ML",
+    "unitario": 7.0,
+    "caixa": 55.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Corona",
+    "nome": "Cerveja Corona",
+    "embalagem": "Lata 8 x 350 ML",
+    "unitario": 7.5,
+    "caixa": 59.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Coronita",
+    "nome": "Cerveja Coronita",
+    "embalagem": "Long Neck 6 x 210 ML",
+    "unitario": 6.75,
+    "caixa": 40.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Devassa",
+    "nome": "Cerveja Devassa Puro Malte",
+    "embalagem": "12 x 269 ML",
+    "unitario": 3.0,
+    "caixa": 35.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Devassa",
+    "nome": "Cerveja Devassa Puro Malte",
+    "embalagem": "12 x 350 ML",
+    "unitario": 3.75,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Eiseinbah",
+    "nome": "Cerveja Eiseinbah",
+    "embalagem": "Long Neck 6 x 330 ML",
+    "unitario": 6.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "",
+    "nome": "Cerveja Eis IPA / Pale Ale / Weiss",
+    "embalagem": "6 x 330 ML",
+    "unitario": 7.0,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "",
+    "nome": "Cerveja Eisein Lata 12 x 350 ML Ama/unfilter",
+    "embalagem": "",
+    "unitario": 5.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "",
+    "nome": "Cerveja Eisein IPA E Pale Ale",
+    "embalagem": "Lata 6 x 350 ML",
+    "unitario": 5.75,
+    "caixa": 34.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Heineken",
+    "nome": "Cerveja Heineken Barril 5 Litros",
+    "embalagem": "",
+    "unitario": 130.0,
+    "caixa": 130.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Heineken",
+    "nome": "Cerveja Heineken",
+    "embalagem": "Lata 8 x 269 ML",
+    "unitario": 5.0,
+    "caixa": 40.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Heineken",
+    "nome": "Cerveja Heineken",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 6.5,
+    "caixa": 78.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Heineken",
+    "nome": "Cerveja Heineken Lata Zero",
+    "embalagem": "12 x 350 ML",
+    "unitario": 6.75,
+    "caixa": 80.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Heineken",
+    "nome": "Cerveja Heineken",
+    "embalagem": "Long Neck 6 x 330 ML",
+    "unitario": 7.5,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Heineken",
+    "nome": "Cerveja Heineken",
+    "embalagem": "Long Neck 6 x 250 ML",
+    "unitario": 6.75,
+    "caixa": 40.5
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Heineken",
+    "nome": "Cerveja Heineken Long Neck Zero 6 x 330",
+    "embalagem": "",
+    "unitario": 8.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Heineken",
+    "nome": "Cerveja Heineken Garr",
+    "embalagem": "24 x 600 ML",
+    "unitario": 12.0,
+    "caixa": 285.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Imperio",
+    "nome": "Cerveja Imperio Gold",
+    "embalagem": "LN 18 x 210 ML",
+    "unitario": 4.75,
+    "caixa": 84.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Imperio",
+    "nome": "Cerveja Imperio Lata 12 x 350 ML (Branca)",
+    "embalagem": "",
+    "unitario": 4.0,
+    "caixa": 47.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Imperio",
+    "nome": "Cerveja Imperio Lager LT 12 x 350 ML (Verde)",
+    "embalagem": "",
+    "unitario": 4.25,
+    "caixa": 50.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Imperio",
+    "nome": "Cerveja Imperio Lager",
+    "embalagem": "LN 12 x 275 ML",
+    "unitario": 5.25,
+    "caixa": 63.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Imperio",
+    "nome": "Cerveja Imperio Ultra",
+    "embalagem": "LN 12 x 275 ML",
+    "unitario": 5.5,
+    "caixa": 65.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Itaipava",
+    "nome": "Cerveja Itaipava",
+    "embalagem": "Latinha 12 x 269 ML",
+    "unitario": 3.25,
+    "caixa": 38.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Michelob",
+    "nome": "Cerveja Michelob Ultra Long Neck",
+    "embalagem": "",
+    "unitario": 7.0,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Michelob",
+    "nome": "Cerveja Michelob Ultra",
+    "embalagem": "Lata 8 x 350 ML",
+    "unitario": 6.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Michelob",
+    "nome": "Cerveja Michelob Ultra",
+    "embalagem": "Lata 8 x 269 ML",
+    "unitario": 4.0,
+    "caixa": 31.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Nova Schin",
+    "nome": "Cerveja Nova Schin",
+    "embalagem": "12 x 350 ML",
+    "unitario": 3.5,
+    "caixa": 41.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Original",
+    "nome": "Cerveja Original",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 5.5,
+    "caixa": 66.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Original",
+    "nome": "Cerveja Original",
+    "embalagem": "Palito 12 x 269 ML",
+    "unitario": 4.25,
+    "caixa": 62.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Original",
+    "nome": "Cerveja Original",
+    "embalagem": "Profissa 23 x 300 ML",
+    "unitario": 3.75,
+    "caixa": 84.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "",
+    "nome": "Cerveja Pat Amber / Weiss / IPA",
+    "embalagem": "Lata 8X350 ML",
+    "unitario": 7.75,
+    "caixa": 61.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "",
+    "nome": "Cerveja Pat Bohemian / Amber",
+    "embalagem": "LN 12X355 ML",
+    "unitario": 9.0,
+    "caixa": 107.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "",
+    "nome": "Cerveja Pat IPA / Weiss",
+    "embalagem": "LN 12 x 355 ML",
+    "unitario": 9.0,
+    "caixa": 107.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Petra",
+    "nome": "Cerveja Petra Puro Malte Lata 12 x 350",
+    "embalagem": "",
+    "unitario": 4.0,
+    "caixa": 47.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Petra",
+    "nome": "Cerveja Petra Puro Malte Preta LN 6 x 355",
+    "embalagem": "",
+    "unitario": 5.5,
+    "caixa": 33.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Skol",
+    "nome": "Cerveja Skol",
+    "embalagem": "12 x 350 ML",
+    "unitario": 4.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Skol",
+    "nome": "Cerveja Skol",
+    "embalagem": "Latinha 15 x 269 ML",
+    "unitario": 3.5,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Skol",
+    "nome": "Cerveja Skol",
+    "embalagem": "Profissa 23X300 ML",
+    "unitario": 3.25,
+    "caixa": 72.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Sol",
+    "nome": "Cerveja Sol Premium",
+    "embalagem": "Long Neck 6 x 330 ML",
+    "unitario": 6.5,
+    "caixa": 39.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Sol",
+    "nome": "Cerveja Sol Zero",
+    "embalagem": "Long Neck 6 x 330 ML",
+    "unitario": 6.5,
+    "caixa": 39.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Sol",
+    "nome": "Cerveja Sol Sem Gluten",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 5.25,
+    "caixa": 63.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Spaten",
+    "nome": "Cerveja Spaten",
+    "embalagem": "Lata 12 x 350 ML",
+    "unitario": 5.75,
+    "caixa": 68.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Spaten",
+    "nome": "Cerveja Spaten",
+    "embalagem": "Lata 8 x 269 ML",
+    "unitario": 4.0,
+    "caixa": 31.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Spaten",
+    "nome": "Cerveja Spaten",
+    "embalagem": "Long Neck 6 x 350 ML",
+    "unitario": 7.0,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Stella Artois",
+    "nome": "Cerveja Stella Artois",
+    "embalagem": "6 x 330 ML",
+    "unitario": 7.5,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Stella Artois",
+    "nome": "Cerveja Stella Artois",
+    "embalagem": "8 x 269 ML",
+    "unitario": 4.5,
+    "caixa": 35.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "Stella Artois",
+    "nome": "Cerveja Stella Artois",
+    "embalagem": "Lata 8 x 355 ML",
+    "unitario": 6.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "",
+    "nome": "Cerveja Stella Gold",
+    "embalagem": "LN 6 x 330 ML",
+    "unitario": 8.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "",
+    "nome": "Cerveja Stella Gold",
+    "embalagem": "Lata 8 x 350 ML",
+    "unitario": 6.5,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "",
+    "nome": "Cerveja Stella Gold",
+    "embalagem": "Lata 8 x 269 ML",
+    "unitario": 5.0,
+    "caixa": 40.0
+  },
+  {
+    "categoria": "Cerveja",
+    "marca": "1906",
+    "nome": "Cerveja 1906",
+    "embalagem": "Long Neck 6 x 330 ML",
+    "unitario": 8.5,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "",
+    "nome": "Aguardente Canelinha",
+    "embalagem": "",
+    "unitario": 16.0,
+    "caixa": 16.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Salinas",
+    "nome": "Aguardente Salinas",
+    "embalagem": "1 LT",
+    "unitario": 20.0,
+    "caixa": 20.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Pirassununga 51",
+    "nome": "Aguardente Pirassununga 51",
+    "embalagem": "",
+    "unitario": 18.0,
+    "caixa": 18.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Velho Barreiro",
+    "nome": "Aguardente Velho Barreiro",
+    "embalagem": "",
+    "unitario": 16.0,
+    "caixa": 16.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Ypioca",
+    "nome": "Aguardente Ypioca Ouro",
+    "embalagem": "",
+    "unitario": 26.0,
+    "caixa": 26.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Ypioca",
+    "nome": "Aguardente Ypioca Ouro Empalhada",
+    "embalagem": "",
+    "unitario": 48.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Amarula",
+    "embalagem": "750 ML",
+    "unitario": 140.0,
+    "caixa": 140.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Amarula",
+    "embalagem": "375 ML",
+    "unitario": 81.0,
+    "caixa": 81.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Aperol",
+    "embalagem": "",
+    "unitario": 65.0,
+    "caixa": 65.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "",
+    "nome": "Bananinha",
+    "embalagem": "",
+    "unitario": 30.0,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "",
+    "nome": "Blue Pinga",
+    "embalagem": "",
+    "unitario": 28.0,
+    "caixa": 28.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Seleta",
+    "nome": "Cachaça Seleta",
+    "embalagem": "",
+    "unitario": 47.0,
+    "caixa": 47.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Campari",
+    "embalagem": "748 ML",
+    "unitario": 65.0,
+    "caixa": 65.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Campari",
+    "embalagem": "1 LT",
+    "unitario": 76.0,
+    "caixa": 76.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "",
+    "nome": "Catuaba Selvagem",
+    "embalagem": "1LT",
+    "unitario": 15.0,
+    "caixa": 15.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Domus",
+    "nome": "Conhaque Domus",
+    "embalagem": "1 LT",
+    "unitario": 12.0,
+    "caixa": 12.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Dreher",
+    "nome": "Conhaque Dreher",
+    "embalagem": "1 LT",
+    "unitario": 24.0,
+    "caixa": 24.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Dulon",
+    "nome": "Conhaque Dulon",
+    "embalagem": "1 LT",
+    "unitario": 7.0,
+    "caixa": 7.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "Presidente",
+    "nome": "Conhaque Presidente",
+    "embalagem": "970 ML",
+    "unitario": 15.0,
+    "caixa": 15.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Esp Quinta Do Morg Moscatel",
+    "embalagem": "",
+    "unitario": 30.0,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Esp Quinta Do Morg Moscatel Rose",
+    "embalagem": "",
+    "unitario": 30.0,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Fiu Fiu",
+    "embalagem": "",
+    "unitario": 45.0,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Gin",
+    "marca": "Beefeater",
+    "nome": "Gin Beefeater London Dry",
+    "embalagem": "750 ML",
+    "unitario": 115.0,
+    "caixa": 115.0
+  },
+  {
+    "categoria": "Gin",
+    "marca": "Bonbay",
+    "nome": "Gin Bonbay",
+    "embalagem": "750 ML",
+    "unitario": 110.0,
+    "caixa": 110.0
+  },
+  {
+    "categoria": "Gin",
+    "marca": "Tanqueray",
+    "nome": "Gin Tanqueray London Dry",
+    "embalagem": "750 ML",
+    "unitario": 135.0,
+    "caixa": 135.0
+  },
+  {
+    "categoria": "Gin",
+    "marca": "Tanqueray",
+    "nome": "Gin Tanqueray & Tonic",
+    "embalagem": "275 ML",
+    "unitario": 22.0,
+    "caixa": 22.0
+  },
+  {
+    "categoria": "Gin",
+    "marca": "",
+    "nome": "Gin Tonica Schweppes",
+    "embalagem": "310 ML",
+    "unitario": 6.0,
+    "caixa": 6.0
+  },
+  {
+    "categoria": "Gin",
+    "marca": "",
+    "nome": "Gin Rocks",
+    "embalagem": "995 ML",
+    "unitario": 35.0,
+    "caixa": 35.0
+  },
+  {
+    "categoria": "Gin",
+    "marca": "Mansão Maromba",
+    "nome": "Gin Mansão Maromba",
+    "embalagem": "1 LT",
+    "unitario": 26.0,
+    "caixa": 26.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Absoluti Sprite",
+    "embalagem": "",
+    "unitario": 10.5,
+    "caixa": 10.5
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice 51 Todas",
+    "embalagem": "6 x 275 ML",
+    "unitario": 6.5,
+    "caixa": 39.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Cabare",
+    "embalagem": "6 x 275 ML",
+    "unitario": 8.5,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Birinight",
+    "embalagem": "12 x 375 ML",
+    "unitario": 3.5,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Birinight",
+    "embalagem": "1 LT",
+    "unitario": 8.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Fiu Fiu",
+    "embalagem": "275 ML",
+    "unitario": 8.5,
+    "caixa": 8.5
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Leev",
+    "embalagem": "275 ML",
+    "unitario": 6.5,
+    "caixa": 6.5
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Skol Beats Senses",
+    "embalagem": "Lata 8 x 269ML",
+    "unitario": 7.5,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Skol Beats Senses",
+    "embalagem": "Garrafa 6 x 269 ML",
+    "unitario": 8.75,
+    "caixa": 52.5
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Skol Beats M Mule / Morrito / Caip 8 x 269",
+    "embalagem": "",
+    "unitario": 7.5,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Skol Beats Gt/red Mix/tropical",
+    "embalagem": "8X 269 ML",
+    "unitario": 7.5,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Skol Beats Red Mix",
+    "embalagem": "Garrafa 6 x 269 ML",
+    "unitario": 8.75,
+    "caixa": 52.5
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Skol Beats Gt",
+    "embalagem": "Long Neck 6 x 269 ML",
+    "unitario": 8.75,
+    "caixa": 52.5
+  },
+  {
+    "categoria": "Ice",
+    "marca": "Smirnoff",
+    "nome": "Ice Smirnoff",
+    "embalagem": "6 x 275 ML",
+    "unitario": 8.5,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Schwepps Vodka Citrus Long",
+    "embalagem": "250ML",
+    "unitario": 8.0,
+    "caixa": 8.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Schwepps Vodka Citrus/pink Lata 269 M",
+    "embalagem": "",
+    "unitario": 6.5,
+    "caixa": 6.5
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Ice Schwepps Mix Vodka Maracuja",
+    "embalagem": "269 ML",
+    "unitario": 7.0,
+    "caixa": 7.0
+  },
+  {
+    "categoria": "Ice",
+    "marca": "",
+    "nome": "Keep Cooler",
+    "embalagem": "6 x 275 ML",
+    "unitario": 7.0,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Licor Ballena",
+    "embalagem": "",
+    "unitario": 150.0,
+    "caixa": 150.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Licor 43",
+    "embalagem": "",
+    "unitario": 180.0,
+    "caixa": 180.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Martini Bianco",
+    "embalagem": "995 ML",
+    "unitario": 42.0,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "",
+    "nome": "Paratudo",
+    "embalagem": "1 LT",
+    "unitario": 18.0,
+    "caixa": 18.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "",
+    "nome": "Pinga Mix",
+    "embalagem": "1 LT",
+    "unitario": 18.0,
+    "caixa": 18.0
+  },
+  {
+    "categoria": "Rum",
+    "marca": "Bacardi",
+    "nome": "Rum Bacardi Big Apple",
+    "embalagem": "1 LT",
+    "unitario": 40.0,
+    "caixa": 40.0
+  },
+  {
+    "categoria": "Rum",
+    "marca": "Bacardi",
+    "nome": "Rum Bacardi Carta Blanca",
+    "embalagem": "980 ML",
+    "unitario": 48.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Rum",
+    "marca": "Bacardi",
+    "nome": "Rum Bacardi Carta Ouro",
+    "embalagem": "980 ML",
+    "unitario": 53.0,
+    "caixa": 53.0
+  },
+  {
+    "categoria": "Rum",
+    "marca": "Montilla",
+    "nome": "Rum Montilla Carta Cristal",
+    "embalagem": "1 LT",
+    "unitario": 27.0,
+    "caixa": 27.0
+  },
+  {
+    "categoria": "Rum",
+    "marca": "Montilla",
+    "nome": "Rum Montilla Ouro",
+    "embalagem": "1 LT",
+    "unitario": 27.0,
+    "caixa": 27.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "",
+    "nome": "Sagatiba",
+    "embalagem": "",
+    "unitario": 44.0,
+    "caixa": 44.0
+  },
+  {
+    "categoria": "Licor / Aperitivo",
+    "marca": "",
+    "nome": "Sidra Celebrate",
+    "embalagem": "",
+    "unitario": 10.0,
+    "caixa": 10.0
+  },
+  {
+    "categoria": "Tequila",
+    "marca": "Jose Cuervo",
+    "nome": "Tequila Jose Cuervo Branca",
+    "embalagem": "750 ML",
+    "unitario": 135.0,
+    "caixa": 135.0
+  },
+  {
+    "categoria": "Tequila",
+    "marca": "Jose Cuervo",
+    "nome": "Tequila Jose Cuervo Especial Ouro",
+    "embalagem": "750 ML",
+    "unitario": 135.0,
+    "caixa": 135.0
+  },
+  {
+    "categoria": "Tequila",
+    "marca": "Sauza",
+    "nome": "Tequila Sauza Silver",
+    "embalagem": "750 ML",
+    "unitario": 60.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Aguardente / Destilados",
+    "marca": "",
+    "nome": "Vermelhão",
+    "embalagem": "",
+    "unitario": 60.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Absolut",
+    "nome": "Vodka Absolut",
+    "embalagem": "",
+    "unitario": 115.0,
+    "caixa": 115.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Ciroc",
+    "nome": "Vodka Ciroc Red Berry (Vermelha)",
+    "embalagem": "",
+    "unitario": 190.0,
+    "caixa": 190.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Ciroc",
+    "nome": "Vodka Ciroc Snap Frost (Azul)",
+    "embalagem": "",
+    "unitario": 190.0,
+    "caixa": 190.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Mansão Maromba",
+    "nome": "Vodka Mansão Maromba",
+    "embalagem": "1 LT",
+    "unitario": 26.0,
+    "caixa": 26.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Sky",
+    "nome": "Vodka Sky",
+    "embalagem": "1LT",
+    "unitario": 48.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Sky",
+    "nome": "Vodka Sky",
+    "embalagem": "750 ML",
+    "unitario": 42.0,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Orloff",
+    "nome": "Vodka Orloff",
+    "embalagem": "1 LT",
+    "unitario": 33.0,
+    "caixa": 33.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Polak",
+    "nome": "Vodka Polak",
+    "embalagem": "1 LT",
+    "unitario": 12.0,
+    "caixa": 12.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Rustoff",
+    "nome": "Vodka Rustoff 970 ML Pura",
+    "embalagem": "",
+    "unitario": 12.0,
+    "caixa": 12.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Rustoff",
+    "nome": "Vodka Rustoff 970 ML UN ( Todos Sabores)",
+    "embalagem": "",
+    "unitario": 10.0,
+    "caixa": 10.0
+  },
+  {
+    "categoria": "Vodka",
+    "marca": "Smirnoff",
+    "nome": "Vodka Smirnoff",
+    "embalagem": "1 LT",
+    "unitario": 45.0,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "",
+    "nome": "Whisky Gold Parr",
+    "embalagem": "1 LT",
+    "unitario": 13.0,
+    "caixa": 13.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "",
+    "nome": "Whisky Scotch Bells",
+    "embalagem": "1 LT",
+    "unitario": 45.0,
+    "caixa": 45.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Ballantines",
+    "nome": "Whisky Ballantines Finest",
+    "embalagem": "1 LT",
+    "unitario": 105.0,
+    "caixa": 105.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Ballantines",
+    "nome": "Whisky Ballantines Finest",
+    "embalagem": "0,750 LT",
+    "unitario": 75.0,
+    "caixa": 75.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Black White",
+    "nome": "Whisky Black White",
+    "embalagem": "1 LT",
+    "unitario": 60.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Black Stone",
+    "nome": "Whisky Black Stone",
+    "embalagem": "1 LT",
+    "unitario": 24.0,
+    "caixa": 24.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Buchanans",
+    "nome": "Whisky Buchanans 12 Years",
+    "embalagem": "1 LT",
+    "unitario": 240.0,
+    "caixa": 240.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Buchanans",
+    "nome": "Whisky Buchanans Master 12 Years",
+    "embalagem": "750 ML",
+    "unitario": 160.0,
+    "caixa": 160.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Chivas Regal",
+    "nome": "Whisky Chivas Regal 12 Years",
+    "embalagem": "750 ML",
+    "unitario": 130.0,
+    "caixa": 130.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Chivas Regal",
+    "nome": "Whisky Chivas Regal 12 Years",
+    "embalagem": "1 LT",
+    "unitario": 170.0,
+    "caixa": 170.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Grants",
+    "nome": "Whisky Grants",
+    "embalagem": "1 LT",
+    "unitario": 72.0,
+    "caixa": 72.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "J.Walker",
+    "nome": "Whisky J Walker Red",
+    "embalagem": "1 LT",
+    "unitario": 120.0,
+    "caixa": 120.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "J.Walker",
+    "nome": "Whisky J Walker Red",
+    "embalagem": "750 ML",
+    "unitario": 90.0,
+    "caixa": 90.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "J.Walker",
+    "nome": "Whisky J Walker Black",
+    "embalagem": "1 LT",
+    "unitario": 225.0,
+    "caixa": 225.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Jack Daniels",
+    "nome": "Whisky Jack Daniels",
+    "embalagem": "375 ML",
+    "unitario": 62.0,
+    "caixa": 62.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Jack Daniels",
+    "nome": "Whisky Jack Daniels / Jack Daniels Noney",
+    "embalagem": "1 LT",
+    "unitario": 170.0,
+    "caixa": 170.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Jack Daniels",
+    "nome": "Whisky Jack Daniels Fire",
+    "embalagem": "1 LT",
+    "unitario": 160.0,
+    "caixa": 160.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Natu Nobilis",
+    "nome": "Whisky Natu Nobilis",
+    "embalagem": "1 LT",
+    "unitario": 35.0,
+    "caixa": 35.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Old Par",
+    "nome": "Whisky Old Par Gold",
+    "embalagem": "",
+    "unitario": 180.0,
+    "caixa": 180.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Old Eight",
+    "nome": "Whisky Old Eight",
+    "embalagem": "1 LT",
+    "unitario": 35.0,
+    "caixa": 35.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Passport",
+    "nome": "Whisky Passport",
+    "embalagem": "1 LT",
+    "unitario": 55.0,
+    "caixa": 55.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Teachers",
+    "nome": "Whisky Teachers",
+    "embalagem": "1 LT",
+    "unitario": 40.0,
+    "caixa": 40.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "White Horse",
+    "nome": "Whisky White Horse 8 Years",
+    "embalagem": "1 LT",
+    "unitario": 100.0,
+    "caixa": 100.0
+  },
+  {
+    "categoria": "Whisky",
+    "marca": "Jack Daniels",
+    "nome": "Whisky Jack Daniels Com Coca Cola",
+    "embalagem": "269 ML",
+    "unitario": 12.0,
+    "caixa": 12.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Barbarella",
+    "nome": "Cerveja Barbarella Todas",
+    "embalagem": "Long Neck 355 ML",
+    "unitario": 13.5,
+    "caixa": 13.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Blumenau",
+    "nome": "Cerveja Blumenau Frida Blond",
+    "embalagem": "500 ML",
+    "unitario": 21.0,
+    "caixa": 21.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Blumenau",
+    "nome": "Cerveja Blumenau Capivara Litlle IPA",
+    "embalagem": "600 ML",
+    "unitario": 27.0,
+    "caixa": 27.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Blumenau",
+    "nome": "Cerveja Blumenau Capivara Double IPA",
+    "embalagem": "600 ML",
+    "unitario": 29.0,
+    "caixa": 29.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Blumenau",
+    "nome": "Cerveja Blumenau Catharina Maracuja",
+    "embalagem": "600 ML",
+    "unitario": 24.0,
+    "caixa": 24.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Blumenau",
+    "nome": "Cerveja Blumenau Macuca",
+    "embalagem": "600 ML",
+    "unitario": 25.0,
+    "caixa": 25.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Bruder",
+    "nome": "Cerveja Bruder Alma Cevada",
+    "embalagem": "Lata 473 ML",
+    "unitario": 10.0,
+    "caixa": 10.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Bruder",
+    "nome": "Cerveja Bruder Baixa Gastronomia",
+    "embalagem": "Lata 473 ML",
+    "unitario": 9.0,
+    "caixa": 9.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Bruder",
+    "nome": "Cerveja Bruder Baixa Gastronomia",
+    "embalagem": "600 ML",
+    "unitario": 17.0,
+    "caixa": 17.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Cerpa",
+    "nome": "Cerveja Cerpa Export",
+    "embalagem": "LN 350 ML",
+    "unitario": 11.5,
+    "caixa": 11.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Cerpa",
+    "nome": "Cerveja Cerpa Prime",
+    "embalagem": "LN 350 ML",
+    "unitario": 12.5,
+    "caixa": 12.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Cidade Imperial",
+    "nome": "Cerveja Cidade Imperial Helles",
+    "embalagem": "500 ML",
+    "unitario": 11.0,
+    "caixa": 11.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Colorado",
+    "nome": "Cerveja Colorado Appia",
+    "embalagem": "600 ML",
+    "unitario": 17.0,
+    "caixa": 17.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Colorado",
+    "nome": "Cerveja Colorado Caium",
+    "embalagem": "600 ML",
+    "unitario": 17.0,
+    "caixa": 17.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Colorado",
+    "nome": "Cerveja Colorado Demoiselle",
+    "embalagem": "600 ML",
+    "unitario": 17.0,
+    "caixa": 17.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Colorado",
+    "nome": "Cerveja Colorado Indica",
+    "embalagem": "600 ML",
+    "unitario": 17.0,
+    "caixa": 17.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Colorado",
+    "nome": "Cerveja Colorado Ribeirao",
+    "embalagem": "600 ML",
+    "unitario": 17.0,
+    "caixa": 17.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Colorado",
+    "nome": "Cerveja Colorado Ribeirao Long",
+    "embalagem": "350 ML",
+    "unitario": 8.0,
+    "caixa": 8.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Dogma",
+    "nome": "Cerveja Dogma American IPA",
+    "embalagem": "473 ML",
+    "unitario": 25.5,
+    "caixa": 25.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Dogma",
+    "nome": "Cerveja Dogma APA ( American Pale Ale )",
+    "embalagem": "473 ML",
+    "unitario": 22.5,
+    "caixa": 22.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Dogma",
+    "nome": "Cerveja Dogma Hazy IPA",
+    "embalagem": "355 ML",
+    "unitario": 18.0,
+    "caixa": 18.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Dogma",
+    "nome": "Cerveja Dogma Hop Little Lover",
+    "embalagem": "355 ML",
+    "unitario": 18.0,
+    "caixa": 18.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Dogma",
+    "nome": "Cerveja Dogma Hop Lover Double IPA",
+    "embalagem": "355 ML",
+    "unitario": 24.0,
+    "caixa": 24.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Dogma",
+    "nome": "Cerveja Dogma IPA",
+    "embalagem": "355 ML",
+    "unitario": 15.5,
+    "caixa": 15.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Dogma",
+    "nome": "Cerveja Dogma Pilsen",
+    "embalagem": "355 ML",
+    "unitario": 12.0,
+    "caixa": 12.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Dogma",
+    "nome": "Cerveja Dogma Sour Manga E Goiaba",
+    "embalagem": "355 ML",
+    "unitario": 20.0,
+    "caixa": 20.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Elementum",
+    "nome": "Cerveja Elementum IPA",
+    "embalagem": "500 ML",
+    "unitario": 19.0,
+    "caixa": 19.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Elementum",
+    "nome": "Cerveja Elementum Witbier",
+    "embalagem": "500 ML",
+    "unitario": 17.0,
+    "caixa": 17.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Elementum",
+    "nome": "Cerveja Elementum Lager",
+    "embalagem": "500 ML",
+    "unitario": 16.0,
+    "caixa": 16.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Estrela Galicia",
+    "nome": "Cerveja Estrela Galicia",
+    "embalagem": "Lata 350 ML",
+    "unitario": 6.0,
+    "caixa": 70.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Estrela Galicia",
+    "nome": "Cerveja Estrela Galicia",
+    "embalagem": "Long Neck 6X355 ML",
+    "unitario": 8.25,
+    "caixa": 49.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Estrela Galicia",
+    "nome": "Cerveja Estrela Galicia Zero",
+    "embalagem": "Lata 330 ML",
+    "unitario": 6.0,
+    "caixa": 36.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Goose Iland",
+    "nome": "Cerveja Goose Iland Midway",
+    "embalagem": "Long Neck 330 ML",
+    "unitario": 10.0,
+    "caixa": 10.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Imigração",
+    "nome": "Cerveja Imigração Bock",
+    "embalagem": "500 ML",
+    "unitario": 23.0,
+    "caixa": 23.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Imigração",
+    "nome": "Cerveja Imigração Imperial Stout",
+    "embalagem": "500 ML",
+    "unitario": 29.0,
+    "caixa": 29.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Hougaarden",
+    "nome": "Cerveja Hougaarden",
+    "embalagem": "Long Neck 330 ML",
+    "unitario": 8.5,
+    "caixa": 8.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Hougaarden",
+    "nome": "Cerveja Hougaarden",
+    "embalagem": "Lata 269 ML",
+    "unitario": 5.25,
+    "caixa": 5.25
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Macedonia",
+    "nome": "Cerveja Macedonia",
+    "embalagem": "473 ML",
+    "unitario": 5.5,
+    "caixa": 66.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Munich",
+    "nome": "Cerveja Munich Helles Eichbaum",
+    "embalagem": "500 ML",
+    "unitario": 15.5,
+    "caixa": 15.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Prius",
+    "nome": "Cerveja Prius Jaspion",
+    "embalagem": "355 ML",
+    "unitario": 12.0,
+    "caixa": 12.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Cerveja Roleta Russa APA",
+    "embalagem": "Lata 12X350 ML",
+    "unitario": 11.0,
+    "caixa": 132.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Cerveja Roleta Russa Easy IPA",
+    "embalagem": "Lata 12X350 ML",
+    "unitario": 11.0,
+    "caixa": 132.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Cerveja Roleta Russa Easy IPA",
+    "embalagem": "LN 6 x 355 ML",
+    "unitario": 12.0,
+    "caixa": 72.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Cerveja Roleta Russa IPA",
+    "embalagem": "Lata 12X350 ML",
+    "unitario": 12.0,
+    "caixa": 144.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Cerveja Roleta Russa New Engl",
+    "embalagem": "Lata 12X350 ML",
+    "unitario": 13.0,
+    "caixa": 156.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Cerveja Roleta Russa New Engl",
+    "embalagem": "LN 6 x 355 ML",
+    "unitario": 14.0,
+    "caixa": 42.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Cerveja Roleta Russa Imp IPA",
+    "embalagem": "Lata 12X350 ML",
+    "unitario": 14.0,
+    "caixa": 168.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Cerveja Roleta Russa Imp IPA",
+    "embalagem": "LN 6 X355 ML",
+    "unitario": 15.5,
+    "caixa": 93.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Cerveja Roleta Russa Zero",
+    "embalagem": "Lata 12X350 ML",
+    "unitario": 10.0,
+    "caixa": 120.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Schornestein",
+    "nome": "Cerveja Schornestein APA",
+    "embalagem": "500 ML",
+    "unitario": 26.0,
+    "caixa": 26.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Schornestein",
+    "nome": "Cerveja Schornestein IPA",
+    "embalagem": "500 ML",
+    "unitario": 29.5,
+    "caixa": 29.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Schornestein",
+    "nome": "Cerveja Schornestein Weiss",
+    "embalagem": "500 ML",
+    "unitario": 25.0,
+    "caixa": 25.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Schornestein",
+    "nome": "Cerveja Schornestein All Day IPA",
+    "embalagem": "355 ML",
+    "unitario": 15.0,
+    "caixa": 15.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Super Bock",
+    "nome": "Cerveja Super Bock",
+    "embalagem": "250 ML",
+    "unitario": 8.5,
+    "caixa": 8.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Tijuca",
+    "nome": "Cerveja Tijuca",
+    "embalagem": "LN 350 ML",
+    "unitario": 9.5,
+    "caixa": 9.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Tijuca",
+    "nome": "Cerveja Tijuca Puro Malte",
+    "embalagem": "LN 350 ML",
+    "unitario": 10.0,
+    "caixa": 10.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Wienbier",
+    "nome": "Cerveja Wienbier 58 / 59 / 60",
+    "embalagem": "Lata 710 ML",
+    "unitario": 15.0,
+    "caixa": 15.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Wienbier",
+    "nome": "Cerveja Wienbier 58 / 59 / 60 1,5 Ltr",
+    "embalagem": "",
+    "unitario": 17.5,
+    "caixa": 17.5
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Elementum",
+    "nome": "Growler Elementum",
+    "embalagem": "1 LT",
+    "unitario": 24.0,
+    "caixa": 24.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Imigração",
+    "nome": "Growler Imigração",
+    "embalagem": "1 LT",
+    "unitario": 20.0,
+    "caixa": 20.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Growler Roleta Russa Pilsen Extrema",
+    "embalagem": "1 LT",
+    "unitario": 24.0,
+    "caixa": 24.0
+  },
+  {
+    "categoria": "Cerveja Especial",
+    "marca": "Roleta Russa",
+    "nome": "Growler Roleta Russa Easy Tropical",
+    "embalagem": "1 LT",
+    "unitario": 26.0,
+    "caixa": 26.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Bala Avulsa",
+    "embalagem": "",
+    "unitario": 0.2,
+    "caixa": 0.2
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Bala Halls Todos",
+    "embalagem": "",
+    "unitario": 2.0,
+    "caixa": 2.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Bala Mentos Todas",
+    "embalagem": "",
+    "unitario": 3.0,
+    "caixa": 3.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Bombom Sonho De Valsa / Ouro Branco",
+    "embalagem": "",
+    "unitario": 1.5,
+    "caixa": 1.5
+  },
+  {
+    "categoria": "Carvão",
+    "marca": "",
+    "nome": "Carvão",
+    "embalagem": "",
+    "unitario": 15.0,
+    "caixa": 15.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Chiclett Bubaloo",
+    "embalagem": "",
+    "unitario": 0.4,
+    "caixa": 1.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Chiclett Trident",
+    "embalagem": "",
+    "unitario": 3.0,
+    "caixa": 3.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Chocolates Prestigio",
+    "embalagem": "",
+    "unitario": 4.0,
+    "caixa": 4.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Chocolates Barra",
+    "embalagem": "20 G",
+    "unitario": 3.0,
+    "caixa": 3.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Chocolates Barra",
+    "embalagem": "34 G",
+    "unitario": 4.0,
+    "caixa": 4.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Chocolates Batom",
+    "embalagem": "",
+    "unitario": 2.5,
+    "caixa": 2.5
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Chocolates Kit Kat",
+    "embalagem": "",
+    "unitario": 6.5,
+    "caixa": 6.5
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Kinder Ovo",
+    "embalagem": "",
+    "unitario": 10.0,
+    "caixa": 10.0
+  },
+  {
+    "categoria": "Gelo",
+    "marca": "",
+    "nome": "Gelo Pequeno",
+    "embalagem": "4 KG",
+    "unitario": 10.0,
+    "caixa": 10.0
+  },
+  {
+    "categoria": "Gelo",
+    "marca": "",
+    "nome": "Gelo Grande",
+    "embalagem": "7 KG",
+    "unitario": 13.0,
+    "caixa": 13.0
+  },
+  {
+    "categoria": "Isqueiro",
+    "marca": "",
+    "nome": "Isqueiro Bic Maxi 12 x 1",
+    "embalagem": "",
+    "unitario": 6.0,
+    "caixa": 6.0
+  },
+  {
+    "categoria": "Isqueiro",
+    "marca": "",
+    "nome": "Isqueiro Bic Min 12X1",
+    "embalagem": "",
+    "unitario": 5.0,
+    "caixa": 5.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Paçoca",
+    "embalagem": "",
+    "unitario": 0.5,
+    "caixa": 0.5
+  },
+  {
+    "categoria": "Doces",
+    "marca": "",
+    "nome": "Pirulito",
+    "embalagem": "",
+    "unitario": 0.5,
+    "caixa": 0.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Amendoim Japones Grande",
+    "embalagem": "",
+    "unitario": 9.0,
+    "caixa": 9.0
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Amendoim Sem Pele",
+    "embalagem": "100 G",
+    "unitario": 8.0,
+    "caixa": 8.0
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Batata Pringles Pote",
+    "embalagem": "",
+    "unitario": 13.5,
+    "caixa": 13.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Batata Ruffles",
+    "embalagem": "32G",
+    "unitario": 5.0,
+    "caixa": 5.0
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Batata Ruffles",
+    "embalagem": "76G",
+    "unitario": 10.5,
+    "caixa": 10.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Batata Sensações",
+    "embalagem": "",
+    "unitario": 6.5,
+    "caixa": 6.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Batata Ruffles Pote",
+    "embalagem": "100 G",
+    "unitario": 13.0,
+    "caixa": 13.0
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Baconziitos Pequeno",
+    "embalagem": "34 G",
+    "unitario": 5.0,
+    "caixa": 5.0
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Cebolitos",
+    "embalagem": "36 G",
+    "unitario": 5.0,
+    "caixa": 5.0
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Doritos",
+    "embalagem": "37 G",
+    "unitario": 5.5,
+    "caixa": 5.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Doritos",
+    "embalagem": "76 G",
+    "unitario": 10.5,
+    "caixa": 10.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Doritos Pimenta Mexicana",
+    "embalagem": "",
+    "unitario": 6.5,
+    "caixa": 6.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Doritos Flamin Hot",
+    "embalagem": "",
+    "unitario": 6.5,
+    "caixa": 6.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Cheetos 40 E",
+    "embalagem": "45 G",
+    "unitario": 4.5,
+    "caixa": 4.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Cheetos",
+    "embalagem": "75 G",
+    "unitario": 7.0,
+    "caixa": 7.0
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Fandangos",
+    "embalagem": "35 G",
+    "unitario": 4.0,
+    "caixa": 4.0
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Skiny",
+    "embalagem": "",
+    "unitario": 3.5,
+    "caixa": 3.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Salgadinho Torcida",
+    "embalagem": "",
+    "unitario": 2.0,
+    "caixa": 2.0
+  },
+  {
+    "categoria": "Tabacaria",
+    "marca": "",
+    "nome": "Palheiro Paulistinha",
+    "embalagem": "",
+    "unitario": 33.0,
+    "caixa": 330.0
+  },
+  {
+    "categoria": "Tabacaria",
+    "marca": "",
+    "nome": "Seda Zomo ( Leda ) Folha",
+    "embalagem": "",
+    "unitario": 0.5,
+    "caixa": 4.0
+  },
+  {
+    "categoria": "Espumante",
+    "marca": "",
+    "nome": "Champanhe Chandon Brut",
+    "embalagem": "750 ML",
+    "unitario": 99.0,
+    "caixa": 99.0
+  },
+  {
+    "categoria": "Espumante",
+    "marca": "",
+    "nome": "Champanhe Chandon Passion 750 M",
+    "embalagem": "",
+    "unitario": 110.0,
+    "caixa": 110.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Aurora Reserva Merlot",
+    "embalagem": "",
+    "unitario": 43.0,
+    "caixa": 43.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Argentino Finca",
+    "embalagem": "",
+    "unitario": 29.0,
+    "caixa": 29.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Argentino Trapiche",
+    "embalagem": "",
+    "unitario": 51.0,
+    "caixa": 51.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Argentino Trivento",
+    "embalagem": "",
+    "unitario": 60.0,
+    "caixa": 60.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Brasileiro Casa Perini",
+    "embalagem": "750 ML",
+    "unitario": 53.0,
+    "caixa": 53.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Chileno Casillero Del Diablo",
+    "embalagem": "",
+    "unitario": 55.0,
+    "caixa": 55.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Chileno Casill Del Diablo Pinot Noir",
+    "embalagem": "",
+    "unitario": 55.0,
+    "caixa": 55.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Chileno Chilano",
+    "embalagem": "",
+    "unitario": 27.0,
+    "caixa": 27.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Concha Y Toro Reservado",
+    "embalagem": "",
+    "unitario": 33.0,
+    "caixa": 33.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Chileno Gato Negro",
+    "embalagem": "",
+    "unitario": 40.0,
+    "caixa": 40.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Chileno Santa Carolina",
+    "embalagem": "",
+    "unitario": 34.0,
+    "caixa": 34.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Chileno Santa Helena",
+    "embalagem": "",
+    "unitario": 34.0,
+    "caixa": 34.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Chileno Vale Do Chillan Chardonay",
+    "embalagem": "",
+    "unitario": 34.0,
+    "caixa": 34.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Chileno Vale Do Chillan Cabernet Sa",
+    "embalagem": "",
+    "unitario": 33.0,
+    "caixa": 33.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Del Grano Rose Bordo",
+    "embalagem": "1 LT",
+    "unitario": 25.0,
+    "caixa": 25.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Del Grano Tinto Seco",
+    "embalagem": "1 LT",
+    "unitario": 25.0,
+    "caixa": 25.0
+  },
+  {
+    "categoria": "Espumante",
+    "marca": "",
+    "nome": "Vinho Espumante Aurora Mosc Rose / Brut",
+    "embalagem": "",
+    "unitario": 43.0,
+    "caixa": 43.0
+  },
+  {
+    "categoria": "Espumante",
+    "marca": "",
+    "nome": "Vinho Espumante Aurora Sem Alcool",
+    "embalagem": "",
+    "unitario": 48.0,
+    "caixa": 48.0
+  },
+  {
+    "categoria": "Espumante",
+    "marca": "",
+    "nome": "Vinho Espumante Quinta Do Morg Rose",
+    "embalagem": "",
+    "unitario": 30.0,
+    "caixa": 30.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Cant Serra Tinto Suave",
+    "embalagem": "1,5 LT",
+    "unitario": 15.0,
+    "caixa": 15.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Cant Serra Tinto Suave",
+    "embalagem": "0,880 ML",
+    "unitario": 7.5,
+    "caixa": 7.5
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Quinta Do Morgado 750 ML (Todos)",
+    "embalagem": "",
+    "unitario": 21.0,
+    "caixa": 21.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Quinta Do Morgado 1 Litro (Todos)",
+    "embalagem": "",
+    "unitario": 28.0,
+    "caixa": 28.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Lambrusco Cella Tinto E Rose",
+    "embalagem": "",
+    "unitario": 65.0,
+    "caixa": 65.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Lambrusco Cella Branco",
+    "embalagem": "",
+    "unitario": 65.0,
+    "caixa": 65.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Lambrusco Ravena Todos",
+    "embalagem": "",
+    "unitario": 27.0,
+    "caixa": 27.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Port Casal Garcia (Todos)",
+    "embalagem": "750 ML",
+    "unitario": 73.0,
+    "caixa": 73.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Portugues Mateus Rose",
+    "embalagem": "750 ML",
+    "unitario": 70.0,
+    "caixa": 70.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Portugues Olaria",
+    "embalagem": "750 ML",
+    "unitario": 40.0,
+    "caixa": 40.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Portugues Terras Del Rei",
+    "embalagem": "750 ML",
+    "unitario": 29.0,
+    "caixa": 29.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Mioranza",
+    "embalagem": "1 LT",
+    "unitario": 20.0,
+    "caixa": 20.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Mioranza",
+    "embalagem": "0,750 ML",
+    "unitario": 18.0,
+    "caixa": 18.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Pergola",
+    "embalagem": "1 LT",
+    "unitario": 28.5,
+    "caixa": 28.5
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Pergola",
+    "embalagem": "750 ML",
+    "unitario": 18.0,
+    "caixa": 18.0
+  },
+  {
+    "categoria": "Vinho",
+    "marca": "",
+    "nome": "Vinho Perola",
+    "embalagem": "750 ML",
+    "unitario": 12.0,
+    "caixa": 12.0
+  },
+  {
+    "categoria": "Gelo",
+    "marca": "",
+    "nome": "Gelo Saborizado 190g",
+    "embalagem": "Água de Coco / Limão e Sal / Maçã Verde / Morango / Melancia / Maracujá",
+    "unitario": 5.0,
+    "caixa": 5.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "Finni",
+    "nome": "Finni",
+    "embalagem": "15g",
+    "unitario": 2.0,
+    "caixa": 2.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "Finni",
+    "nome": "Finni",
+    "embalagem": "27g",
+    "unitario": 3.0,
+    "caixa": 3.0
+  },
+  {
+    "categoria": "Doces",
+    "marca": "Finni",
+    "nome": "Finni",
+    "embalagem": "35g",
+    "unitario": 3.5,
+    "caixa": 3.5
+  },
+  {
+    "categoria": "Doces",
+    "marca": "Finni",
+    "nome": "Finni",
+    "embalagem": "40g",
+    "unitario": 4.5,
+    "caixa": 4.5
+  },
+  {
+    "categoria": "Salgados",
+    "marca": "",
+    "nome": "Mandioca",
+    "embalagem": "",
+    "unitario": 7.0,
+    "caixa": 7.0
+  },
+  {
+    "categoria": "Carnes",
+    "marca": "",
+    "nome": "Picanha",
+    "embalagem": "Kg",
+    "unitario": 82.5,
+    "caixa": 82.5
+  },
+  {
+    "categoria": "Carnes",
+    "marca": "",
+    "nome": "Cupim",
+    "embalagem": "Kg",
+    "unitario": 43.0,
+    "caixa": 43.0
+  },
+  {
+    "categoria": "Carnes",
+    "marca": "",
+    "nome": "Filé de Costela",
+    "embalagem": "Kg",
+    "unitario": 54.0,
+    "caixa": 54.0
+  },
+  {
+    "categoria": "Carnes",
+    "marca": "",
+    "nome": "Fraldinha",
+    "embalagem": "Kg",
+    "unitario": 39.0,
+    "caixa": 39.0
+  }
+]

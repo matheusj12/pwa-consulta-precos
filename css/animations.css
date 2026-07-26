@@ -1,0 +1,76 @@
+@keyframes splash-pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.85; }
+}
+
+@keyframes splash-ring {
+  0% { transform: rotate(0deg); opacity: 0.5; }
+  100% { transform: rotate(360deg); opacity: 0.9; }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes toast-in {
+  from { opacity: 0; transform: translateY(100%); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.splash-logo {
+  animation: splash-pulse 2.6s var(--ease-standard) infinite;
+}
+
+.splash-ring {
+  animation: splash-ring 3.2s linear infinite;
+}
+
+.splash-screen {
+  transition: opacity var(--duration-slow) var(--ease-standard),
+    visibility var(--duration-slow) var(--ease-standard);
+}
+
+.splash-screen.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.app-shell {
+  animation: fade-in var(--duration-slow) var(--ease-standard);
+}
+
+.product-card {
+  animation: fade-in-up var(--duration-base) var(--ease-standard) both;
+}
+
+.update-toast {
+  animation: toast-in var(--duration-base) var(--ease-standard);
+}
+
+.skeleton {
+  background: linear-gradient(90deg, var(--color-bg-card) 25%, var(--color-bg-card-hover) 50%, var(--color-bg-card) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

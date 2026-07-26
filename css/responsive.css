@@ -1,0 +1,56 @@
+/* Tablet */
+@media (min-width: 640px) {
+  .product-grid {
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    gap: 14px;
+  }
+
+  .brand-name {
+    font-size: 1.25rem;
+  }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  .header-inner,
+  .search-wrap,
+  .chip-row,
+  .results {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+
+  .product-grid {
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 16px;
+  }
+
+  .search-bar {
+    height: 56px;
+  }
+}
+
+/* Small phones */
+@media (max-width: 360px) {
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+
+  .brand-subtitle {
+    display: none;
+  }
+}
+
+/* Landscape phones: keep header compact */
+@media (max-height: 480px) and (orientation: landscape) {
+  .splash-badge {
+    width: 88px;
+    height: 88px;
+  }
+
+  .splash-logo {
+    width: 64px;
+    height: 64px;
+  }
+}
