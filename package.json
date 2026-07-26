@@ -5,5 +5,9 @@
   "description": "PWA de consulta de preços de bebidas - ATACADÃO. 100% estático, sem backend.",
   "scripts": {
     "dev": "npx --yes serve . -l 5000"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.6.1",
+    "pg": "^8.22.0"
   }
 }
